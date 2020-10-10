@@ -1,0 +1,53 @@
+﻿$(function(){
+   
+   obj={
+      search:function(){
+	     $('#box').datagrid('load',{
+		     user:$.trim($('input[name="user"]').val()),
+			 date_from:$('input[name="date_from"]').val(),
+			 date_to:$('input[name="date_to"]').val(),
+		 });
+	  },
+   };
+   $('#box').datagrid({
+        width:600,
+		//url:'content.json',
+		url:'user.php',
+		title:'用户列表',
+		iconCls:'icon-search',
+		striped:true,
+		nowrap:true,
+		rownumbers:true,
+		singleSelect:true,	
+		fitColumns:true,
+		columns:[[
+		   {
+		      field:'user',    //对应数据库中的字段
+		      title:'账号',		
+              sortable:true,	
+			  width:100,
+		   },
+		    {
+			  field:'email',
+		      title:'邮件',
+			  sortable:true,
+			  width:100,
+		   },
+		    {
+			  field:'date',   
+		      title:'注册时间',  
+              sortable:true,  		
+              width:100,			  
+		   },
+		]],
+		toolbar:'#tb',
+		pagination:true,
+		pageSize:10,
+		pageList:[10,20,30],
+		pageNumber:1,
+		sortName:'date',
+		sortOrder:'DESC',
+
+   });
+  
+});

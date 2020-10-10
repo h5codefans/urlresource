@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<title>轮播</title>
+<link rel="stylesheet" href="">
+<style type="text/css">
+	body,div,ul,li{
+		margin: 0;
+		padding: 0
+	}
+	.banner{
+		width: 730px;
+		height: 454px;
+		margin: 0 auto;
+		overflow: hidden;
+		position: relative;
+	}
+	.banner_list a{
+		position: absolute;
+		top: 0;
+		display: none;
+	}
+	.banner_list .active{
+		display: block;
+	}
+
+	.pre,.next{
+		font-size: 200%;
+		color: #fff;
+		text-align: center;
+		width: 40px;
+		height:80px;
+		line-height: 80px;
+		background: rgba(0,0,0,0.3);
+		position: absolute;
+		top: 180px;
+		z-index: 30;
+		cursor: pointer;
+	}
+	.pre{
+		left: 0;
+	}
+	.next{
+		right: 0;
+	}
+	.banner .show{
+		display: none;
+	}
+	.banner:hover .show{
+		display: block;
+	}
+	.banner ul{
+		position: absolute;
+		left: 300px;
+		bottom: 10px;
+		z-index: 30;
+		color: #fff;
+		font-size: 12px;
+		font-weight: bold;
+	}
+	.banner li{
+		width: 20px;
+		height: 20px;
+		line-height: 20px;
+		text-align: center;
+		border-radius: 10px;
+		background-color: #333;
+		float: left;
+		list-style: none;
+		margin: 0 5px;
+		cursor:pointer;
+	}
+	.banner .on{
+		background: #a00;
+	}
+</style>
+</head>
+<body>
+<div class="banner">
+	<div class="pre show"><</div>
+	<div class="next show">></div>
+	<ul>
+		<li class="on">1</li>
+		<li>2</li>
+		<li>3</li>
+		<li>4</li>
+		<li>5</li>
+	</ul>
+	<div class="banner_list">
+		<a href="#" class="active"><img src="img/1.jpg" alt=""></a>
+		<a href="#"><img src="img/2.jpg" alt=""></a>
+		<a href="#"><img src="img/3.jpg" alt=""></a>
+		<a href="#"><img src="img/4.jpg" alt=""></a>
+		<a href="#"><img src="img/5.jpg" alt=""></a>
+	</div>
+</div>
+</body>
+<script src="js/jquery-1.7.2.js"></script>
+<script type="text/javascript">
+$(function(){
+	$('ul li').mouseover(function(){
+		$(this).addClass("on").siblings().removeClass("on");
+		var b=$(this).index();
+		$('.banner_list>a').fadeOut(500).eq(b).fadeIn(1000);
+		clearInterval(t);
+	}).mouseout(function(){
+		t = setInterval(showAuto, 2000);
+	});
+
+	$('.banner img').mouseover(function(){
+		clearInterval(t);
+	}).mouseout(function(){
+		t = setInterval(showAuto, 2000);
+	});
+
+	$('.show').mouseover(function(){
+		clearInterval(t);
+	}).mouseout(function(){
+		t = setInterval(showAuto, 2000);
+	});
+	$('.pre').click(function(){
+		if(i>0){
+			i--;
+			$('ul li').eq(i).addClass("on").siblings().removeClass("on");
+			$('.banner_list>a').fadeOut(500).eq(i).fadeIn(1000);
+		}else{
+			i=5;
+		}
+	});
+	$('.next').click(function(){
+		showAuto();
+	});
+
+	var i=0;
+	function showAuto(){
+		var len=$('ul li').length;
+		if(i<len-1){
+			i++;
+			$('ul li').eq(i).addClass("on").siblings().removeClass("on");
+			$('.banner_list>a').fadeOut(500).eq(i).fadeIn(1000);
+		}else{
+			i=-1;
+		}
+	}
+	t = setInterval(showAuto, 2000);
+});
+
+</script>
+</html>

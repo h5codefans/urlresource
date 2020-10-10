@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+    <title>无标题页</title>
+<script src="js/jquery-1.7.2.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function(){
+    	//隔行变色
+    	$("tbody>tr:not(.parent):odd").addClass("odd");
+    	$("tbody>tr:not(.parent):even").addClass("even");
+
+    	$("tbody>tr:not(.parent)").mouseover(function(){
+    		$(this).addClass("mouseOver").siblings().removeClass("mouseOver");
+    	});
+
+
+    	$("tbody>tr:not(.parent)").click(function(){
+    		if($(this).hasClass("selected")){
+    			$(this).removeClass("selected").find(":checkbox").prop("checked",false);
+    		}else{
+    			$(this).addClass("selected").find(":checkbox").prop("checked",true);
+    		}
+    	});
+
+    	$("#checkAll").click(function(){
+    		$("tbody>tr:not(.parent)").find(":checkbox").each(function(){
+    			$(this).prop("checked",true).parent().parent().addClass("selected");
+    		});
+    	});
+    	
+    	$("#checkRev").click(function(){
+    			$("tbody>tr:not(.parent)").find(":checkbox").each(function(){
+    				$(this).prop("checked",false).parent().parent().removeClass("selected");
+    			});
+    	});
+
+        $("#acer").toggle(function(){
+               $(".child_acer").hide("slow");
+        },function(){
+                $(".child_acer").show("slow");
+        });
+        
+        $("#thinkpad").toggle(function(){
+               $(".child_thinkpad").hide("slow");
+        },function(){
+                $(".child_thinkpad").show("slow");
+        });
+});
+
+
+    
+</script>
+
+
+<style type="text/css">
+   样式
+/* CSS Document */
+body
+{
+font-size:12px;
+}
+#main
+{
+margin:0px auto;
+    border:solid 1px #aaa;
+    width:600px;
+    height:auto;
+}
+#search
+{
+    margin:100px auto 0px auto;
+    border:solid 1px #aaa;
+    width:600px;
+    height:30px;
+}
+#checkDiv
+{
+    margin:0px auto 0px auto;
+    border:solid 1px #aaa;
+    width:600px;
+    height:25px;
+    text-align:right;
+}
+#searchContent
+{
+    padding-left:10px;
+}
+#searchText
+{
+    margin-left:10px;
+    margin-top:3px;
+}
+#myTb
+{
+    width:100%;
+    height:100%;
+    text-align:center;
+}
+#myTb tr
+{
+    height:21px;
+}
+#myTb tbody tr
+{
+    cursor:pointer;
+}
+.even{background:#CCCCCC;}
+.odd{background:#FFFFFF;}
+.mouseOver{background:#666666;}
+.selected{background:#003366;}
+.parent{background:#333333; color:#FFFFFF;}
+.focus{ border:solid 1px #999999; background:#CCCCCC;}
+.hide{display: none;}
+.show{display: block;}
+</style>
+</head>
+<body>
+    <div id="main">
+        <table id="myTb">
+            <thead>
+                <tr>
+                    <th width="50px"></th>
+                    <th>品牌</th>
+                    <th>型号</th>
+                    <th>价格</th>
+                </tr>
+            </thead>
+            <tbody>
+                    <tr class="parent" id="acer">
+                        <td colspan="4" align="left">宏基(acer)专区</td>
+                    </tr>
+                    <tr class="child_acer">
+                        <td><input type="checkbox" /></td>
+                        <td>Acer</td>
+                        <td>AS4741ZG-P612G32Mnkk</td>
+                        <td><em>3499.00</em></td>
+                    </tr>
+                    <tr class="child_acer">
+                        <td><input type="checkbox" /></td>
+                        <td>Acer</td>
+                        <td>AS5740G-434G50Mn  </td>
+                        <td><em>5599.00</em></td>
+                    </tr>
+                    <tr class="child_acer">
+                        <td><input type="checkbox" /></td>
+                        <td>Acer</td>
+                        <td>ThinkPad SL410k（2874-A16）</td>
+                        <td><em>4399.00</em></td>
+                    </tr>
+                    <tr class="parent" id="thinkpad">
+                        <td colspan="4" align="left">联想(ThinkPad)专区</td>
+                    </tr>
+                    <tr class="child_thinkpad">
+                        <td><input type="checkbox" /></td>
+                        <td>ThinkPad</td>
+                        <td>E40（0578-ER5）14.0</td>
+                        <td><em>4899.00</em></td>
+                    </tr>
+                    <tr class="child_thinkpad">
+                        <td><input type="checkbox" /></td>
+                        <td>ThinkPad</td>
+                        <td>X201i（3249-3HC）</td>
+                        <td><em>6999.00</em></td>
+                    </tr>
+                    <tr class="child_thinkpad">
+                        <td><input type="checkbox" /></td>
+                        <td>ThinkPad</td>
+                        <td>SL410k（2874-A16）</td>
+                        <td><em>3799.00</em></td>
+                    </tr>
+            </tbody>
+        </table>
+    </div>
+    <div id="checkDiv">
+        <div>
+            <input type="checkbox" id="checkAll" />全选
+            <input type="checkbox" id="checkRev" />反选&nbsp;
+        </div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"alert"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Administrator/Desktop/1.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "v",
+		"selected_items":
+		[
+			[
+				"v",
+				"Convert Case: Upper Case"
+			],
+			[
+				"",
+				":w - Save"
+			],
+			[
+				"Snippet: ",
+				"Snippet: form_for label"
+			],
+			[
+				"nt",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				":x",
+				"Set Syntax: XML"
+			],
+			[
+				":",
+				"File: Close All"
+			],
+			[
+				":c",
+				"File: Close All"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				":o",
+				":$ - EOF"
+			],
+			[
+				":cl",
+				"File: Close All"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			":w"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/Teacher.java",
+		"/D/Program Files/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/HTML手写代码/导航栏.html",
+		"/D/Program Files/Sublime Text/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime Text/Data/Packages/User/Distraction Free.sublime-settings",
+		"/D/Program Files/Sublime Text/Data/Packages/User/HTML.sublime-settings",
+		"/D/Program Files/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/D/HTML手写代码/nav.html",
+		"/D/Program Files/Sublime Text/Data/Packages/View In Browser/View In Browser.sublime-settings",
+		"/D/Program Files/Sublime Text/Data/Packages/User/View In Browser.sublime-settings",
+		"/D/Program Files/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime Text/Data/Packages/User/Package Control.sublime-settings",
+		"/D/Program Files/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Program Files/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/学习资料/jQuery/jQuery插件/jQuery.js/jquery-ui.min.js",
+		"/F/a/1.html",
+		"/F/1.js",
+		"/C/Users/Administrator/Desktop/2.js",
+		"/C/Users/Administrator/Desktop/1.html",
+		"/C/Users/Administrator/Desktop/2.php",
+		"/C/Users/Administrator/Desktop/a.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			"ctrl+shift+enter",
+			"{ \"keys\": [\"ctrl+shift+enter\"], \"command\": \"open_in_browser\" }",
+			"brower",
+			"function",
+			"/function",
+			"aaaa",
+			"function",
+			"aaaaa",
+			"aa",
+			"aaa",
+			"function",
+			"(){",
+			"\");",
+			"\");\n",
+			"highlight",
+			"auto_match_enabled",
+			"is",
+			"liunx",
+			"a",
+			":11,12s/a/A/g"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"aaaaa"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jquery-2.0.2.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

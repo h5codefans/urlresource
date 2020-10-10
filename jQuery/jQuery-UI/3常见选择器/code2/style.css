@@ -1,0 +1,17 @@
+/*
+div,p,strong{
+   color:red;
+}
+a {
+  color:red;
+}
+ul li a{
+  color:green;
+}
+*{
+  color:red;
+}
+*/
+.box.pox{
+   color:red;
+}

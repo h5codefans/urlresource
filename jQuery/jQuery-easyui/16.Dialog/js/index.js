@@ -1,0 +1,36 @@
+﻿$(function(){
+    $('#box').dialog({
+	   width:400,
+	   height:250,
+	   title:'对话框',
+	   /*
+	   collapsible:true,
+	   minimizable:true,
+	   maximizable:true,
+	   resizable:true,
+	   */
+	   //toolbar:'#tt',
+	   toolbar:[{
+	      text:'编辑',
+		  iconCls:'icon-edit',
+		  handler:function(){
+		      alert('edit');
+		  },
+	   },{}],
+	   buttons:[{
+	       text:'确定',
+		   iconCls:'icon-ok',
+		   plain:true,
+	   },{
+	       text:'取消',
+		   iconCls:'icon-cancel',
+		   plain:true,
+	   }],
+	   onClose:function(){
+	      alert('关闭后触发');
+	   },
+	});
+	
+	//console.log($('#box').dialog('dialog'));
+	console.log($('#box').dialog('body'));
+});
