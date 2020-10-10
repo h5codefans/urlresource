@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/themes/grid.js"></script>
+<script src="js/modules/exporting.js"></script>	
+<script type="text/javascript">
+	$(function () {
+		var options={
+	        chart: {
+	        	renderTo:'container',
+	            type: 'column',
+	            borderWidth:0,
+	            alignTicks:false
+	        },
+	        title: {
+	            text: '性能风险总汇'
+	        },
+    		labels: {
+	            items: [{
+	                html: '最近更新时间为：2016-05-04',
+	                style: {
+	                    left: '20px',
+	                    top: '40px',
+	                    align:'right',
+	                    fontWeight:'bold',
+	                    color: (Highcharts.theme && Highcharts.theme.textColor) || 'black'
+	                }
+	            }],
+	        },
+	        xAxis: {
+	            categories: ['S201', 'C301', 'S111', 'CS95', 'V301'],
+	          	labels: {
+                	rotation: 90
+            	},
+            	tickWidth:0,
+            	lineColor: "#F8F9F5",
+	            lineWidth: 1
+	        },
+	     	exporting:{
+	     		enabled:false
+	     	},
+	        yAxis: {
+	            //categories: ['重量管控', '精致工程','动态性能'],
+	            tickInterval: 5,
+	            title: {
+	                text: null
+	            },
+	             labels: {
+	             	floating:true,
+	             	x:20,
+	             	y:40,
+				    formatter:function(){
+				      if(this.value <=5&&this.value>0) { 
+				        return "重量管控";
+				      }else if(this.value >5 && this.value <=10) { 
+				        return "精致工程"; 
+				      }else if(this.value>10&&this.value<=15){ 
+				        return "动态性能";
+				      }
+				    }
+				},
+
+	            // stackLabels: {
+	            //     enabled: true	            //     style: {
+	            //         fontWeight: 'bold',
+	            //         color: (Highcharts.theme && Highcharts.theme.textColor) || 'gray'
+	            //     }
+	            // },
+	             plotLines: [{
+	                    value: 0,
+	                    width: 2,
+	                    color: '#000000',
+	                    dashStyle:'dot'
+	                },{
+	                    value: 5,
+	                    width: 2,
+	                    color: '#000000',
+	                    dashStyle:'dot'
+
+	                },{
+	                    value: 10,
+	                    width: 2,
+	                    color: '#000000',
+	                    dashStyle:'dot'
+
+	                }],
+	                tickWidth:0,  //去掉刻度
+	                lineColor: "#F8F9F5",// Y轴的颜色
+	                lineWidth: 1,// Y轴的宽度
+	                gridLineWidth: 0// 横向格线宽度
+	        },
+	        legend:{
+	            // align: 'left',
+	            // x: 25,
+	            // y:20,
+	            // verticalAlign: 'top',
+	            // backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColorSolid) || 'white',
+	            // borderColor: '#CCC',
+	            // borderWidth: 1,
+	            // shadow: false
+	            enabled:false
+	        },
+	        tooltip: {
+	             formatter: function() {
+		        // 	  if(this.series.name=='低风险') { 
+				      //   return "重量管控风险";
+				      // }else if(this.series.name=='中风险') { 
+				      //   return "精致工程风险"; 
+				      // }else if(this.series.name=='高风险'){ 
+				      //   return "动态性能风险";
+				      // }
+				      return this.series.name;
+	             }
+	        },
+	        plotOptions: {
+	            column: {
+	                stacking: 'normal',
+	                cursor:'pointer',
+	                dataLabels: {
+	                    enabled: false,
+	                    color: (Highcharts.theme && Highcharts.theme.dataLabelsColor) || 'white'
+	                }
+	            },
+	            //禁止触发图例
+	            series : {
+					events : {
+						legendItemClick: function(event) {
+						     return false;
+						}
+					}
+				}
+	        },
+	        credits:{
+			     enabled:false // 禁用版权信息
+			},
+	        // series: [{
+	        //     name: '动态性能',
+	        //     data: [5, 5, 5, 5, 5]
+	        // },{
+	        //     name: '精致工程',
+	        //     data: [5, 5, 5, 5, 5]
+	        // },{
+	        //     name: '重量管控',
+	        //     data: [5, 5, 5, 5, 5]
+	        // }]
+	       	series: [{
+	            name: '动态性能',
+	            data: [{y:5,
+	            	color:'#ffff00'
+	            },{y:5,color:'#00ff00'},{y:5,color:'#00ffff'},{y:5,color:'#0000ff'},{y:5,color:'#ff00ff'}],
+	            color:'#F58386'
+	        },{
+	            name: '精致工程',
+	            data: [{
+	            	y:5,
+	            	color:'#ffff00'
+	            },{y:5,color:'#ffff00'},{y:5,color:'#ffff00'},{y:5,color:'#ffff00'},{y:5,color:'#ffff00'}],
+	            color:'#FFD966',
+	        },{
+	            name: '重量管控',
+	            data: [{
+	            	y:5,
+	            	color:'#ffff00'
+	            },{y:5,color:'#ffff00'},{y:5,color:'#ffff00'},{y:5,color:'#ffff00'},{y:5,color:'#ffff00'}],
+	            color:'#A9D18E'
+	        }]
+	    };
+	    // console.log(options.series[0].data[0].color='#ff0000');
+	    options.series[0].data[2].color='#ff0000';
+	    var chart = new Highcharts.Chart(options);
+
+});				
+</script>
+<body>
+<div id="container"></div>
+</body>
+</html>

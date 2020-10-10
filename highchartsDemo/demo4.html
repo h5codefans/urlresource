@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/themes/grid.js"></script>
+<script src="js/modules/exporting.js"></script>	
+<script type="text/javascript">
+$(function () {
+    $('#container').highcharts({
+        chart: {
+            type: 'line'
+        },
+        title: {
+            text: 'Monthly Average Temperature'
+        },
+        subtitle: {
+            text: 'Source: WorldClimate.com'
+        },
+        xAxis: {
+            categories: ['2016-05-23','2016-05-23','2016-05-23','2016-05-23','2016-05-23']
+        },
+        yAxis: [{ //第一个Y轴，序号为0
+            labels: {
+                format: '{value}',
+                style: {
+                    color: '#89A54E'
+                }
+            },
+            title: {
+                text: null,
+                style: {
+                    color: '#89A54E'
+                }
+            }
+        }, { //第二个Y轴，序号为1
+            title: {
+                text:null,
+                style: {
+                    color: '#4572A7'
+                }
+            },
+            labels: {
+                format: '{value}%',
+                style: {
+                    color: '#4572A7'
+                }
+            },
+            opposite: true
+        }],
+        tooltip: {
+            enabled: true,
+            formatter: function() {
+                return '<b>'+this.x+'</b><br/>'+this.series.name+': '+ this.y ;
+            }
+        },
+        plotOptions: {
+            line: {
+                dataLabels: {
+                    enabled: true
+                },
+                enableMouseTracking: false
+            }
+        },
+    	credits:{
+		     enabled:false // 禁用版权信息
+		},
+		exporting:{
+			enabled:false
+		},
+		series: [{ //第一个Y轴的数据
+            name: '问题数',
+            color: '#289EF8',
+            type: 'spline',
+            data: [49, 71, 106, 129, 144],
+            tooltip: {
+                valueSuffix: ' mm'
+            }
+        }, { //第二个Y轴的数据
+        	yAxis: 1,//坐标轴序号
+            name: '问题关闭率',
+            color: '#3307E1',
+            type: 'spline',
+            data: [7.0, 6.9, 9.5, 14.5, 18.2],
+            tooltip: {
+                valueSuffix: '°C'
+            }
+        }]
+        // series: [{
+        //     name: '问题数',
+        //     data: [131,142,145,146,163]
+        // }, {
+        //     name: '问题关闭率',
+        //     data: [143,145,136,192,156,186]
+        // }]
+    });
+});							
+</script>
+<body>
+<div id="container"></div>
+</body>
+</html>

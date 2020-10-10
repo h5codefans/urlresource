@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/themes/grid.js"></script>
+<script src="js/modules/exporting.js"></script>	
+<script type="text/javascript">
+$(function () {                                                                
+    $('#container').highcharts({                                           
+        chart: {                                                           
+            type: 'bar'                                                    
+        },
+        colors:['#4679A7','#B8CDE8','#B35D22','#F1A78A'],                                                                 
+        title: {                                                           
+            text: '等分总汇'                    
+        },                                                                 
+        subtitle: {                                                        
+            text: 'Source: Wikipedia.org'                                  
+        },                                                                 
+        xAxis: {                                                           
+	        categories: ['S201', 'C301', 'S111', 'CS95', 'V301'],
+            title: {                                                       
+                text: null                                                 
+            }                                                              
+        },                                                                 
+        yAxis: {                                                           
+            min: 0,                                                        
+            title: {                                                       
+                text: null,                             
+                align: 'high'                                              
+            },                                                             
+            labels: {                                                      
+                overflow: 'justify'                                        
+            }
+        },                                                                 
+        tooltip: {                                                         
+            // valueSuffix: ' millions'  
+            shared:true                                     
+        },                                                                 
+        plotOptions: {                                                     
+            bar: {                                                         
+                dataLabels: {                                              
+                    enabled: true                                         
+                }                                                          
+            }                                                              
+        },                                                                 
+        legend: {                                                        
+            // layout: 'vertical',                                            
+            align: 'center',                                                
+            verticalAlign: 'top',                                          
+            // x: -40,                                                        
+            y: 80,                                                        
+            floating: true,                                                
+            borderWidth: 1,                                                
+            backgroundColor: '#FFFFFF',                                    
+            shadow: true                                                   
+        },                                                                 
+        credits: {                                                         
+            enabled: false                                                 
+        },                                                                 
+        series: [{                                                         
+            name: '产品目标',                                             
+            data: [107, 31, 635, 203, 2]                                 
+            // dataLabels: {
+            //     enabled: true,
+            //     color: '#FFFFFF',
+            //     align: 'center',
+            //     style: {
+            //         fontSize: '13px',
+            //         fontFamily: 'Verdana, sans-serif',
+            //         textShadow: '0 0 3px black'
+            //     }
+            // }
+        }, {                                                               
+            name: '产品得分',                                             
+            data: [133, 156, 947, 408, 6]
+            // dataLabels: {
+            //     enabled: true,
+            //     color: '#FFFFFF',
+            //     align: 'center',
+            //     style: {
+            //         fontSize: '13px',
+            //         fontFamily: 'Verdana, sans-serif',
+            //         textShadow: '0 0 3px black'
+            //     }
+            // }                                  
+        }, {                                                               
+            name: '精致工程目标',                                             
+            data: [973, 914, 4054, 732, 34]
+            // dataLabels: {
+            //     enabled: true,
+            //     color: '#FFFFFF',
+            //     align: 'center',
+            //     style: {
+            //         fontSize: '13px',
+            //         fontFamily: 'Verdana, sans-serif',
+            //         textShadow: '0 0 3px black'
+            //     }
+            // }                                
+        },{                                                         
+            name: '精致工程得分',                                             
+            data: [107, 31, 635, 203, 2]                                   
+            // dataLabels: {
+            //     enabled: true,
+            //     color: '#FFFFFF',
+            //     align: 'center',
+            //     style: {
+            //         fontSize: '13px',
+            //         fontFamily: 'Verdana, sans-serif',
+            //         textShadow: '0 0 3px black'
+            //     }
+            // }
+        }]                                                                 
+    });                                                                    
+});                                                                                                                                              				                                                                                                                                           						
+</script>
+<body>
+<div id="container"></div>
+</body>
+</html>
