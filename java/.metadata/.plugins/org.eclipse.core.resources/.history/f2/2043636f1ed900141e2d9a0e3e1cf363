@@ -1,0 +1,34 @@
+package cn.bjsxt.collection;
+
+public class SxLinkedList {
+      
+	private Node first;
+	private Node last;
+	
+	private int size;
+	
+	public void add(Object obj){
+		Node n=new Node();
+		if(first==null){
+			n.setPrevious(null);
+			n.setObj(obj);
+			n.setNext(null);
+			
+			first=n;
+			last=n;
+		}else{
+			//直接往last节点后增加新的节点
+			n.setPrevious(last);
+			n.setObj(obj);
+			n.setNext(null);
+			
+			last.setNext(n);
+			
+			last=n;
+		}
+	}
+	public static void main(String[] args) {
+		SxLinkedList list=new SxLinkedList();
+		list.add("aaa");
+	}
+}

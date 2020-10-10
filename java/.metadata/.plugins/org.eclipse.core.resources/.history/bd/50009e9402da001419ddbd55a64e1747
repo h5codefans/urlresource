@@ -1,0 +1,5 @@
+package cn.bjsxt.lianxi;
+
+public class TestDoor {
+   FDoor f=new FDoor();
+}

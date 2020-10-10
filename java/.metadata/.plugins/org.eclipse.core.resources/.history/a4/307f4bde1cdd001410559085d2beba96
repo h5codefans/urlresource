@@ -1,0 +1,13 @@
+package com.bjsxt.gen01;
+
+/**
+ * Object可以接受任意类型，因为发生多态
+ * @author Administrator
+ *
+ */
+public class Student {
+   private Object javase;
+   private Object oracle;
+   
+   
+}

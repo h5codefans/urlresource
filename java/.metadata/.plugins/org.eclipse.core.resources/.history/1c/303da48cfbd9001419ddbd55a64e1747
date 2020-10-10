@@ -1,0 +1,33 @@
+package cn.bjsxt.lianxi;
+
+public class Stud {
+   private String no;
+   private String name;
+   private int deg;
+   static int sum;
+   static double num;
+   public Stud(){
+	   
+   }
+   public Stud(String no,String name,int deg){
+	   this.no=no;
+	   this.name=name;
+	   this.deg=deg;
+   }
+   public void disp(){
+	   sum+=deg;
+	   System.out.println("学号："+no+",姓名："+name+",成绩:"+deg);
+   }
+   public static void avg(){
+	   
+   }
+   
+	public static void main(String[] args) {
+		Stud s1=new Stud("01","张三",89);
+		Stud s2=new Stud("02","李四",94);
+		Stud s3=new Stud("03","王五",79);
+        s1.disp();
+        s2.disp();
+        s3.disp();
+	}
+}

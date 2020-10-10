@@ -1,0 +1,33 @@
+package cn.bjsxt.lianxi;
+
+public class Test{
+public static void main(String[] args) {
+// TODO Auto-generated method stub
+}
+
+public static int add(int x,int y){
+return x+y;
+}
+public static int sub(int x,int y){
+return x-y;
+}
+public static int mult(int x,int y){
+return x*y;
+}
+public static int div(int x,int y){
+try{
+if(y==0)
+throw new Test("出书不能为0");
+}catch(Test e){
+e.printStackTrace();
+}
+return x/y;
+}
+}
+class Test extends Exception{
+public Test(){
+}
+public Test(String message){
+super(message);
+}
+}

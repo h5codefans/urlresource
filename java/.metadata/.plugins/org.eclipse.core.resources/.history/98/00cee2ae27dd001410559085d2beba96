@@ -1,0 +1,77 @@
+package com.bjsxt.gen03;
+
+/**
+ * 父类为泛型类
+ * 1.属性
+ * 2.方法
+ * 
+ * 要么同时擦除，要么子类大于等于父类的类型
+ * 不能子类擦除，父类泛型
+ * 1.属性类型
+ * 在父类中，谁父类而定
+ * 在子类中，随子类而定
+ * 2.方法重写：
+ * 随父类定
+ * @author Administrator
+ *
+ * @param <T>
+ */
+public abstract class Father<T> {
+    T name;
+    public abstract void test(T t);
+}
+
+/**
+ * 子类声明时指定具体类型
+ * 属性类型为具体类型
+ */
+class Child extends Father<String>{
+    String t2;
+	@Override
+	public void test(String t) {
+		
+	}
+}
+/**
+ * 子类为泛型类,类型在使用时确定
+ * 
+ */
+class Child2<T> extends Father<T>{
+	String t2;
+	public void test(T t){
+		
+	}
+}
+
+/**
+*子类为泛型类，父类不指定类型,泛型的擦除，使用Object替换
+*
+*/
+class Child3<T>extends Father{
+
+	@Override
+	public void test(Object t) {
+		
+	}
+	
+}
+/**
+*子类与父类同时擦除
+*/
+class Child4 extends Father{
+
+	@Override
+	public void test(Object t) {
+		
+	}
+}
+/**
+*错误：子类擦除，父类使用泛型
+*/
+/*class Child4 extends Father<T>{
+
+	@Override
+	public void test(T t) {
+		
+	}
+}*/

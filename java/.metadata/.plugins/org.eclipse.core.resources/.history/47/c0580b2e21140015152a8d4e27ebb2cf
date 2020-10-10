@@ -1,0 +1,18 @@
+package cn.itcast.xml;
+
+/**
+ * 调整jvm内存大小
+ * @author Administrator
+ *
+ */
+public class Demo01 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

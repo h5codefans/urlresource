@@ -1,0 +1,11 @@
+package cn.bjsxt.collection;
+
+/**
+ * 自动义Map的升级版
+ * 1.提供Map的查询效率
+ * @author Administrator
+ *
+ */
+public class SxtMap002 {
+
+}

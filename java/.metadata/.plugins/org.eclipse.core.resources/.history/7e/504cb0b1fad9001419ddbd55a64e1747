@@ -1,0 +1,17 @@
+package cn.bjsxt.lianxi;
+
+public class Stud {
+   private String no;
+   private String name;
+   private int deg;
+   static int sum;
+   static double num;
+   public Stud(){
+	   
+   }
+   public Stud(String no,String name,int deg){
+	   this.no=no;
+	   this.name=name;
+	   this.deg=deg;
+   }
+}

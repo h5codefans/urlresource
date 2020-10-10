@@ -1,0 +1,5 @@
+package com.bjsxt.gen02;
+
+public class Studnet<T> {
+
+}

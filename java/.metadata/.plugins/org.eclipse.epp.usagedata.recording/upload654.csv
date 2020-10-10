@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.monitor.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.monitor.ui",1435157069901
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui",1435157069926
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1435157069935
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1435157069949
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1435157069960
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1435157069969
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1435157069985
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1435157069991
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1435157070002
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1435157070026
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1435157070026
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1435157070034
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1435157070047
+started,bundle,org.eclipse.ui.navigator,3.5.101.v20120106-1355,"org.eclipse.ui.navigator",1435157070060
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1435157070061
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1435157070074
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1435157070096
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1435157070120
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1435157070132
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1435157070134
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1435157070141
+started,bundle,org.eclipse.update.ui,3.2.300.v20100512,"org.eclipse.update.ui",1435157070158
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1435157070175
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1435157070186
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1435157070196
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1435157070197
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1435157070212
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1435157070236
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1435157070246
+started,bundle,org.eclipse.wst.server.core,1.1.304.v20120208_1420,"org.eclipse.wst.server.core",1435157070259
+started,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1435157070259
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1435157070273
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1435157070282
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1435157070298
+started,bundle,com.aptana.ide.core,1.2.7.024747,"com.aptana.ide.core",1435157070300
+started,bundle,com.aptana.ide.core.ui,1.2.7.024747,"com.aptana.ide.core.ui",1435157070300
+started,bundle,com.aptana.ide.db.ui,1.2.7.024747,"com.aptana.ide.db.ui",1435157070310
+started,bundle,com.aptana.ide.debug.ui,1.2.7.024747,"com.aptana.ide.debug.ui",1435157070328
+started,bundle,com.aptana.ide.documentation,1.2.7.024747,"com.aptana.ide.documentation",1435157070338
+started,bundle,com.aptana.ide.epl,1.2.7.024747,"com.aptana.ide.epl",1435157070350
+started,bundle,com.aptana.ide.extras,1.2.7.024747,"com.aptana.ide.extras",1435157070356
+started,bundle,com.aptana.ide.framework.jaxer,1.2.7.024747,"com.aptana.ide.framework.jaxer",1435157070356
+started,bundle,com.aptana.ide.framework.jaxer.server.win32,1.2.7.024747,"com.aptana.ide.framework.jaxer.server.win32",1435157070373
+started,bundle,com.aptana.ide.intro,1.2.7.024747,"com.aptana.ide.intro",1435157070390
+started,bundle,com.aptana.ide.io.file,1.2.7.024747,"com.aptana.ide.io.file",1435157070393
+started,bundle,com.aptana.ide.samples,1.2.7.024747,"com.aptana.ide.samples",1435157070405
+started,bundle,com.aptana.ide.server,1.2.7.024747,"com.aptana.ide.server",1435157070411
+started,bundle,com.aptana.ide.server.cloud,1.2.7.024747,"com.aptana.ide.server.cloud",1435157070422
+started,bundle,com.aptana.ide.server.core,1.2.7.024747,"com.aptana.ide.server.core",1435157070431
+started,bundle,com.aptana.ide.server.jetty,1.2.7.024747,"com.aptana.ide.server.jetty",1435157070435
+started,bundle,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal",1435157070449
+started,bundle,com.aptana.ide.ssh,1.2.7.024747,"com.aptana.ide.ssh",1435157070450
+started,bundle,com.aptana.ide.syncing,1.2.7.024747,"com.aptana.ide.syncing",1435157070451
+started,bundle,com.aptana.ide.update,1.2.7.024747,"com.aptana.ide.update",1435157070469
+started,bundle,de.guhsoft.jinto.core,0.13.5,"de.guhsoft.jinto.core",1435157070470
+started,bundle,com.collabnet.subversion.merge,2.2.4,"com.collabnet.subversion.merge",1435157070480
+started,bundle,org.tigris.subversion.clientadapter,1.6.12,"org.tigris.subversion.clientadapter",1435157070481
+started,bundle,org.tigris.subversion.subclipse.core,1.6.18,"org.tigris.subversion.subclipse.core",1435157070481
+started,bundle,org.tigris.subversion.subclipse.mylyn,3.0.0,"org.tigris.subversion.subclipse.mylyn",1435157070482
+started,bundle,org.tigris.subversion.subclipse.tools.usage,1.0.1,"org.tigris.subversion.subclipse.tools.usage",1435157070482
+started,bundle,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui",1435157070520
+os,sysinfo,,,"win32",1435157070527
+arch,sysinfo,,,"x86",1435157070527
+ws,sysinfo,,,"win32",1435157070527
+locale,sysinfo,,,"zh_CN",1435157070527
+processors,sysinfo,,,"4",1435157070527
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1435157070527
+java.runtime.version,sysinfo,,,"1.6.0_10-rc2-b32",1435157070527
+java.specification.name,sysinfo,,,"Java Platform API Specification",1435157070527
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1435157070527
+java.specification.version,sysinfo,,,"1.6",1435157070527
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1435157070527
+java.version,sysinfo,,,"1.6.0_10-rc2",1435157070527
+java.vm.info,sysinfo,,,"mixed mode",1435157070527
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1435157070527
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1435157070527
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1435157070527
+java.vm.specification.version,sysinfo,,,"1.0",1435157070527
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1435157070527
+java.vm.version,sysinfo,,,"11.0-b15",1435157070527
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157103309
+started,bundle,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui",1435157103736
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.200.v20100418,"org.eclipse.jst.server.tomcat.ui",1435157103738
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157103740
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1435157106396
+started,bundle,com.aptana.ide.debug.core,1.2.7.024747,"com.aptana.ide.debug.core",1435157106514
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1435157106524
+opened,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1435157106965
+started,bundle,com.aptana.ide.server.ui,1.2.7.024747,"com.aptana.ide.server.ui",1435157106995
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157107170
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157138449
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1435157140073
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1435157142400
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157148359
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157161482
+started,bundle,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.resources",1435157163597
+started,bundle,org.eclipse.emf.edit,2.7.2.v20120130-0943,"org.eclipse.emf.edit",1435157163770
+started,bundle,org.eclipse.emf.common.ui,2.7.0.v20120130-0943,"org.eclipse.emf.common.ui",1435157163803
+started,bundle,org.eclipse.emf.edit.ui,2.7.0.v20120130-0943,"org.eclipse.emf.edit.ui",1435157163805
+started,bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.500.v201105122000,"org.eclipse.jst.j2ee.webservice.ui",1435157163806
+started,bundle,org.eclipse.jst.j2ee.webservice,1.1.400.v201004110600,"org.eclipse.jst.j2ee.webservice",1435157163855
+started,bundle,org.eclipse.jst.jee.ui,1.0.401.v201202011107,"org.eclipse.jst.jee.ui",1435157163955
+started,bundle,org.eclipse.jst.j2ee.ui,1.1.503.v201201190400,"org.eclipse.jst.j2ee.ui",1435157163982
+started,bundle,org.eclipse.jst.j2ee.navigator.ui,1.1.501.v201107261503,"org.eclipse.jst.j2ee.navigator.ui",1435157163991
+started,bundle,org.eclipse.wst.common.ui,1.1.500.v200911190730,"org.eclipse.wst.common.ui",1435157164551
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1435157165115
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1435157165243
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1435157165283
+opened,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157165385
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157165470
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1435157166891
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1435157166950
+started,bundle,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.ui",1435157166952
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1435157167052
+started,bundle,org.eclipse.jst.jsf.common,1.2.3.v201104061039,"org.eclipse.jst.jsf.common",1435157167190
+started,bundle,org.eclipse.jst.jsf.core,1.3.105.v201108261005,"org.eclipse.jst.jsf.core",1435157167202
+started,bundle,org.eclipse.jst.jsp.core,1.2.402.v201112071853,"org.eclipse.jst.jsp.core",1435157167255
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.502.v201104071820,"org.eclipse.wst.wsdl.validation",1435157167724
+started,bundle,org.eclipse.wst.xsd.core,1.1.600.v201104070312,"org.eclipse.wst.xsd.core",1435157167724
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1435157167725
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1435157171674
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157173342
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157182501
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1435157182526
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157186841
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157189633
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157190549
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157202742
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1435157204194
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1435157204805
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1435157204817
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1435157205091
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1435157205290
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1435157205609
+started,bundle,org.eclipse.xsd,2.7.1.v20120130-0943,"org.eclipse.xsd",1435157206038
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1435157206040
+opened,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435157206133
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1435157206167
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435157206314
+started,bundle,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.ui",1435157211424
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1435157215649
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435157221191
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1435157226585
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157227599
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157256841
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157259782
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157268948
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435157270555
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157271290
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.101.v201201031437,"org.eclipse.jst.ws.jaxws.dom.integration",1435157274237
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1435157274281
+started,bundle,org.eclipse.jst.servlet.ui,1.1.502.v201202011054,"org.eclipse.jst.servlet.ui",1435157274376
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1435157282258
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1435157282272
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1435157282335
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1435157282361
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157284129
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157286844
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435157289720
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157291021
+error,log,,,"Could not search for markers.",1435157301268
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1435157301346
+closed,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435157301602
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.505.v201202020200,"org.eclipse.jst.j2ee.ejb",1435157305550
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.501.v201111030500,"org.eclipse.jst.j2ee.jca",1435157305589
+started,bundle,org.eclipse.jst.jee.ejb,1.0.301.v201007070821,"org.eclipse.jst.jee.ejb",1435157305649
+started,bundle,org.eclipse.jst.jee.web,1.0.301.v201007070907,"org.eclipse.jst.jee.web",1435157305675
+started,bundle,org.eclipse.wst.html.core,1.1.502.v201202091936,"org.eclipse.wst.html.core",1435157306128
+started,bundle,org.eclipse.wst.css.core,1.1.501.v201111292150,"org.eclipse.wst.css.core",1435157306319
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1435157309084
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157311906
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157314208
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157315643
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157361959
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157364014
+error,log,,,"Could not search for markers.",1435157368410
+error,log,,,"Could not search for markers.",1435157375491
+error,log,,,"Could not search for markers.",1435157383564
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157401000
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157402072
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157402646
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157402710
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157402770
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157417639
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157422777
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157422780
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157422816
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157422853
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157432500
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157433457
+error,log,,,"Could not search for markers.",1435157441326
+error,log,,,"Could not search for markers.",1435157455224
+error,log,,,"Could not search for markers.",1435157461095
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157464997
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157466807
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157466814
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157466848
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157466900
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157472075
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157472965
+error,log,,,"Could not search for markers.",1435157475280
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110928-1453,"org.eclipse.jdt.junit.core",1435157477539
+started,bundle,org.eclipse.equinox.simpleconfigurator.manipulator,2.0.0.v20110815-1438,"org.eclipse.equinox.simpleconfigurator.manipulator",1435157477561
+started,bundle,org.eclipse.equinox.frameworkadmin,2.0.0.v20110815-1438,"org.eclipse.equinox.frameworkadmin",1435157477573
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157478548
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157479847
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157479852
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157479890
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157479924
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157484187
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157484978
+error,log,,,"Could not search for markers.",1435157487243
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157492836
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157492954
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157492956
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157493034
+error,log,,,"Could not load the Tomcat server configuration at \\Servers2\\Tomcat v7.0 Server at localhost-config. The Servers2 project is closed.",1435157493080
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157497561
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157498542
+error,log,,,"Could not search for markers.",1435157505518
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157510659
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435157510791
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.stop",1435157513007
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157514148
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157525213
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.stop",1435157525319
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157527388
+error,log,,,"Could not search for markers.",1435157529075
+error,log,,,"Could not search for markers.",1435157532889
+started,bundle,de.guhsoft.jinto.ui,0.13.5,"de.guhsoft.jinto.ui",1435157538157
+opened,editor,de.guhsoft.jinto.ui,0.13.5,"de.guhsoft.jinto.ui.editor",1435157538382
+activated,editor,de.guhsoft.jinto.ui,0.13.5,"de.guhsoft.jinto.ui.editor",1435157538398
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157542241
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157545303
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157555144
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157560114
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157564658
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157567591
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1435157571718
+error,log,,,"Could not search for markers.",1435157571812
+error,log,,,"CoreException occurs",1435157571874
+closed,editor,de.guhsoft.jinto.ui,0.13.5,"de.guhsoft.jinto.ui.editor",1435157571906
+error,log,,,"Could not search for markers.",1435157571911
+error,log,,,"Unhandled event loop exception during blocked modal context.",1435157571924
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435157571959
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1435157571966
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1435157571966
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157573162
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435157574322
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435157580999

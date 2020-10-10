@@ -1,0 +1,20 @@
+package cn.bjsxt.collection;
+
+/**
+ * 自动义Map的升级版
+ * 1.提供Map的查询效率
+ * @author Administrator
+ *
+ */
+public class SxtMap002 {
+	
+	SxtEntry[] arr=new SxtEntry[999];
+	int size;
+	
+	public void put(Object key,Object value){
+		System.out.println(hashCode());
+	}
+   public static void main(String[] args) {
+	
+}
+}

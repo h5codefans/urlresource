@@ -1,0 +1,8 @@
+package cn.bjsxt.lianxi;
+
+public class TestBankAccount {
+    public static void main(String[] args) {
+		BankAccount b=new BankAccount();
+		b.addAccount();
+	}
+}

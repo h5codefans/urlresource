@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="net.sourceforge.phpdt.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="net.sourceforge.phpeclipse.ATTR_LOCATION" value="c:\apache\apache.exe"/>
+<booleanAttribute key="net.sourceforge.phpeclipse.ATTR_RUN_IN_BACKGROUND" value="true"/>
+<stringAttribute key="net.sourceforge.phpeclipse.ATTR_TOOL_ARGUMENTS" value="-c &quot;DocumentRoot &quot;&quot;&quot;"/>
+</launchConfiguration>

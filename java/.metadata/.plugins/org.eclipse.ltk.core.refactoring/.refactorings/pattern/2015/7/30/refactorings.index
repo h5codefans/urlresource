@@ -1,0 +1,45 @@
+1437559446371	Rename type 'SingletonClassInstance'
+1437559585915	Rename compilation unit 'SingletonClassInstance3.java'
+1437561419245	Copy compilation unit
+1437563341052	Copy compilation unit
+1437565301473	Rename package 'com.bjsxt.factory'
+1437565309825	Delete element
+1437566981363	Copy compilation unit
+1437567448703	Copy compilation unit
+1437567874678	Move compilation units
+1437567884890	Move compilation units
+1437567899950	Copy compilation units
+1437568809640	Delete elements
+1437569838066	Rename resource 'Singleton.png'
+1437569850802	Rename resource 'simplefactory.png'
+1437569865628	Rename resource 'factorymethod.png'
+1437618857254	Delete element
+1437620990976	Copy compilation unit
+1437625729655	Delete element
+1437625738855	Copy compilation unit
+1437642290803	Rename type 'Adpatee'
+1437642728389	Copy compilation unit
+1437646255851	Copy compilation units
+1437710481433	Delete element
+1437712711062	Delete element
+1437735338309	Copy compilation unit
+1437735438938	Copy compilation unit
+1437782017752	Rename type 'MyInterface'
+1437784459523	Delete element
+1437786625000	Delete element
+1437786660250	Delete element
+1437787597231	Copy compilation unit
+1437787737449	Copy compilation unit
+1437788029018	Rename type 'Market'
+1437788038722	Rename type 'Financial'
+1437788055513	Rename type 'Market1'
+1437793071191	Copy compilation unit
+1437793114637	Copy compilation unit
+1437793165577	Copy compilation unit
+1437795267752	Rename package 'com.bjsxt.template'
+1437812518321	Rename package 'com.bjsxt.factory.state'
+1437812912541	Rename package 'com.bjsxt.f.state'
+1437813426409	Rename type 'FressState'
+1437813473194	Rename type 'Context'
+1437813579517	Rename resource '状态模式.png'
+1437814437971	Rename package 'com.bjsxtcomposite'

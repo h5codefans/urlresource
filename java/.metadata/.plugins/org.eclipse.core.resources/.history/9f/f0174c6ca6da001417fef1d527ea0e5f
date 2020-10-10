@@ -1,0 +1,19 @@
+package cn.bjsxt.collection;
+
+import java.util.HashMap;
+
+/**
+ * 自定义自己的HashSet
+ * @author Administrator
+ *
+ */
+public class SxHashSet {
+   
+	HashMap map;
+	private static final Object PRESENT=new Object();
+	
+
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,8 @@
+package cn.bjsxt.lianxi;
+
+public class TestDoor {
+  public static void main(String[] args) {
+	  Door f=new FDoor();
+	  f.openDoor();
+   }
+}

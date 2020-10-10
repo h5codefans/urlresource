@@ -1,0 +1,12 @@
+package cn.itcast.xml;
+
+import javax.xml.parsers.DocumentBuilderFactory;
+
+public class Demo2 {
+    
+	//1.创建工厂
+	   DocumentBuilderFactory factory=DocumentBuilderFactory.newInstance();
+	//2.得到dom解析器
+	
+	//3.解析xml文档，得到代表文档的document
+}

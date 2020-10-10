@@ -1,0 +1,37 @@
+package cn.bjsxt.lianxi;
+
+public abstract class Door {
+     void openDoor(){}
+     void closeDoor(){}
+}
+class FDoor extends Door{
+
+	public void closeDoor(){
+		System.out.println("防盗门关！");
+	}
+	public void theftproof(){
+		System.out.println("我可以防盗!");
+	}
+}
+class WDoor extends Door{
+	public void openDoor(){
+		System.out.println("放水门开！");
+	}
+	public void closeDoor(){
+		System.out.println("放水门关！");
+	}
+	public void waterproof(){
+		System.out.println("我可以防水！");
+	}
+}
+class BDoor extends Door{
+	public void openDoor(){
+		System.out.println("防弹门开！");
+	}
+	public void closeDoor(){
+		System.out.println("防弹门关！");
+	}
+	public void bulletproof(){
+		System.out.println("我可以防弹！");
+	}
+}

@@ -1,0 +1,14 @@
+package cn.bjsxt.collection2;
+
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class Test01 {
+     public static void main(String[] args) throws Exception{
+    	 Employee e=new Employee(0301,"高淇",3000,"项目部","2007-10");
+    	 Employee e2=new Employee(0302,"马士兵",3500,"项目部","2006-10");
+    	 Employee e3=new Employee(0303,"裴新",3550,"项目部","2007-10");
+     }
+}

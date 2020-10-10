@@ -1,0 +1,15 @@
+package cn.bjsxt.collection;
+
+import java.util.HashSet;
+import java.util.Set;
+
+/**
+ * 测试Set常用方法
+ * @author Administrator
+ *
+ */
+public class TestSet {
+   public static void main(String[] args) {
+	 Set set=new HashSet();
+}
+}

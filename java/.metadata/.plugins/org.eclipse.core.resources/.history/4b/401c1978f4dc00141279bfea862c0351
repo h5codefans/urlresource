@@ -1,0 +1,12 @@
+package cn.bjsxt.collection2;
+
+public class Test01 {
+     public static void main(String[] args){
+    	 Employee e=Employee();
+    	 e.setId(301);
+    	 e.setName("高淇");
+    	 e.setDepartment("项目部");
+    	 e.setSalary(3000);
+    	 e.setDepartment(new Date());
+     }
+}

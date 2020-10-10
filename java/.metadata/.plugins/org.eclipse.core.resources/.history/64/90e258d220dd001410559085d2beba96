@@ -1,0 +1,39 @@
+package com.bjsxt.gen02;
+
+import com.bjsxt.gen01.Student;
+
+/**
+ * 泛型类：声明是使用泛型
+ * 字母：
+ * T type表示类型
+ * K V分别表示键值对中Key Value
+ * E 代表Element
+ * 使用时确定类型
+ * 
+ * @author Administrator
+ *
+ * @param <T>
+ */
+public class Studnet<T1,T2> {
+    private T1 javaseScore;
+    private T2 oracleScore;
+    
+    
+	public T1 getJavaseScore() {
+		return javaseScore;
+	}
+	public void setJavaseScore(T1 javaseScore) {
+		this.javaseScore = javaseScore;
+	}
+	public T2 getOracleScore() {
+		return oracleScore;
+	}
+	public void setOracleScore(T2 oracleScore) {
+		this.oracleScore = oracleScore;
+	}
+    
+    public static void main(String[] args){
+    	//使用时指定类型
+    	Student<String,int>stu=new Student<String,int>();
+    }
+}

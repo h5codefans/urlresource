@@ -1,0 +1,47 @@
+package com.bjsxt.test;
+
+import javax.sql.rowset.JdbcRowSet;
+
+public class Demo01 {
+	
+	static{
+		System.out.println("静态初始Demo01");
+	}
+    public static void main(String[] args) throws ClassNotFoundException {
+    	System.out.println("Demo01的main的方法");
+		//主动引用(类会初始化)
+//    	new A();
+//		System.out.println(A.width);
+//    	Class.forName("com.bjsxt.test.A");
+    	
+		//被动引用(类不会被初始化)
+//    	System.out.println(A.MAX);
+//    	A[] as=new A[10];
+    	System.out.println(B.width);  
+		
+	}
+}
+
+class A extends A_Father{
+	public static int width=100;
+	public static final int MAX=50;
+	
+	static {
+		System.out.println("静态初始化块A");
+		width=300;
+	}
+	public A(){
+		System.out.println("创建A类的对象");
+	}
+}
+
+class B extends A{
+	static{
+		System.out.println("静态初始化B");
+	}
+}
+class A_Father{
+	static{
+		System.out.println("静态初始化A_Father");
+	}
+}

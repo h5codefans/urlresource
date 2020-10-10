@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1429080322875
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429080323420
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429080326376
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429080332437
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429080333072
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429080336751
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080338675
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080338764
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080345808
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080345808
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429080346690
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080346690
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429080347456
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080354238
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080354268
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1429080356178
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429080360808
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080363549
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080363582
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080367194
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080371576
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429080412922
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080414424
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080414456
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429080425410
+started,bundle,com.aptana.ide.debug.core,1.2.7.024747,"com.aptana.ide.debug.core",1429080426797
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080454306
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080459409
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1429080469132
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429080469547
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080471306
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429080471339
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429080478988
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429081275487
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429081286600
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090954911
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090955651
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090956541
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090959141
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090962121
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090978841
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090978851
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429090981261
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429090982771
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429090986311
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091081742
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091081922
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091082492
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091083792
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429091084432
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091087772
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091209462
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091248142
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1429091262672
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091275742
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091286482
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091287972
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429091290582
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429094795518
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429095117026
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429099689899
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100572525
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429100574405
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100578875
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100584515
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100584975
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100585025
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1429100592605
+started,bundle,org.eclipse.mylyn.java.tasks,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.tasks",1429100592805
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429100599245
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429100604215
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100606105
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100621607
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429100623567
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429100632048
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100633788
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100634598
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429100636608
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100640048
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100655370
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429100657390
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100659850
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100664270
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100664910
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100673432
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429100675142
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100676292
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100741048
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429100743028
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100744208
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100758719
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100760159
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100760159
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100761409
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100761409
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100762929
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100763979
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100764999
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429100764999
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429100765999
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100770329
+started,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1429100773169
+started,bundle,org.eclipse.jem,2.0.501.v201111030500,"org.eclipse.jem",1429100773259
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1429100773369
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1429100773419
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1429100773539
+started,bundle,org.eclipse.jst.j2ee,1.1.503.v201202090300,"org.eclipse.jst.j2ee",1429100773669
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1429100773869
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1429100773899
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1429100774469
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1429100775109
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1429100775349
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100776199
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429100776239
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429100779019
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100782339
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100785169
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429100786959
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429102924898
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429102925008
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429103041809
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429103047599
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103048919
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103223059
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1429103228079
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103232509
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103263319
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429103263479
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429103263569
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103263599
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103279259
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103279279
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103283619
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103318460
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103408172
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103430162
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103445812
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.2.v201201260000,"org.eclipse.jpt.jaxb.ui",1429103502282
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1429103502332
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1429103502402
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1429103502412
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20111129-2053,"org.eclipse.pde.api.tools",1429103502602
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1429103502612
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.2.v201111103010,"org.eclipse.jpt.jaxb.core",1429103502842
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429103597312
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429103607462
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429103611412
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429103613522
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429103616842
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429103629192
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429103631212
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429103631852
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429103634522
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429103646742
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429103659802
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103682582
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103780794
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429103805900
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429103821642
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103823266
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103826745
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429103829399
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429103863775
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429103863939
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429103864132
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429103864363
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429103864531
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429103864715
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1429103865164
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429103870124
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429103874178
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429103875125
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.200.v201101281837,"org.eclipse.wst.xsl.debug.ui",1429103876898
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429103880129
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429103899189
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429103907167
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429103920756
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429103944562
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104106692
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104107753
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104157887
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104169058
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104171744
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104171798
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104172891
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104180888
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104246903
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104254068
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1429104261801
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104265465
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104265978
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104273535
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104275123
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1429104312544
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1429104316037
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104327617
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104329809
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429104330939
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429104334783
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104343156
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104345711
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429104346712
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429104348480
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1429104353739
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104357900
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104359980
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429104360936
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.eof",1429104363796
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.eof",1429104364987
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429104365491
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1429104365934
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1429104367201
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104371422
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104373966
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104378446
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104385005
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104387425
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429104388249
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429104391795
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104398249
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104402410
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1429104403384
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1429104408601
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1429104420864
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1429104424038
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104433760
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104433761
+error,log,,,"Error in JDT Core during reconcile",1429104433763
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104433772
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104433776
+error,log,,,"Error in JDT Core during AST creation",1429104433778
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104434354
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104434382
+error,log,,,"Error in JDT Core during AST creation",1429104434383
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104436598
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104436599
+error,log,,,"Error in JDT Core during AST creation",1429104436600
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104439002
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104439004
+error,log,,,"Error in JDT Core during AST creation",1429104439005
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104439169
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104439170
+error,log,,,"Error in JDT Core during AST creation",1429104439172
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104441090
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104441091
+error,log,,,"Error in JDT Core during AST creation",1429104441092
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104452281
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1429104452283
+error,log,,,"Error in JDT Core during reconcile",1429104452284
+error,log,,,"Exception occurred during compilation unit conversion:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\npackage com.bjsxt.sort.innerType;\r\n\r\npublic class Trandgs {\r\n     public static void main(String[] args) {\r\n\t\tint i,j;\r\n\t\tfor(i=0;i<3;i++){\r\n\t\t\tfor(j=0;j<2*i+1;j++){\r\n\t\t\t\tSystem.out.print(String.format(""%""+""""(2-i)s"",""*""));\r\n\t\t\t}\r\n\t\t\tSystem.out.println();\r\n\t\t}\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1429104452400

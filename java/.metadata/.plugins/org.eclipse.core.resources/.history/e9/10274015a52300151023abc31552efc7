@@ -1,0 +1,14 @@
+package cn.itcast.utils;
+
+import org.dom4j.Document;
+
+public class XmlUtils {
+   
+	public static Document getDocument(){
+		retrun null;
+	}
+	
+	public static void write2Xml(Document document){
+		
+	}
+}

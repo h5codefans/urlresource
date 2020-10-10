@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327739328
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435327741794
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327747313
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327750879
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327750975
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327751003
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1435327769319
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327771452
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327771890
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327772298
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772350
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772351
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327772738
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772750
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772750
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772751
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327772753
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327773162
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773174
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773174
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773175
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773527
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327773558
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773862
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773862
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+no handler,command,com.aptana.ide.db.ui,1.2.7.024747,"zigen.plugin.SQLCurrentExecuteActionCommand",1435327773863
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327773994
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327775498
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435327777865
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327778809
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327799954
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327801298
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327802232
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327804995
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327804995
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327805859
+activated,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435327806927
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327809155
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327827033
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435327829915
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327834234
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327834275
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1435327862919
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435327865251
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327865532
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327865550
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327867774
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435327873685
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327873927
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435327878748
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435327880724
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327883317
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435327923038
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327926600
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327941782
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435327945545
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435327950419
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435327952378
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327953685
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327965623
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435327966681
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328004552
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328010940
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328041940
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328061217
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328087244
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328096685
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328105983
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328109703
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328111798
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328119698
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328121079
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328124025
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328130012
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1435328137309
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1435328138817
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328163016
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328179537
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328209109
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328218782
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328222170
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328231027
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328244911
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328250843
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328310660
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328310786
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328312667
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328313541
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328313997
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328315173
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328317231
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328318106
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328321505
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328342183
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328343233
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328346193
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328380789
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328384453
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328386021
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328442190
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328443380
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328465185
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328468007
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328567019
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328568132
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328590261
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328590367
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328592452
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328594574
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328598988
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328600572
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328601309
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328603931
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328606084
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435328607527
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328607527
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328607536
+closed,editor,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1435328607545
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328607562
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328607567
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435328609185
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328613794
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328618551
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328618623
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328618652
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328620398
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328625343
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328633288
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328635711
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328637056
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328638438
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328648692
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328652129
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328659370
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328667620
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328670046
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328684697
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328687856
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328899164
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328904332
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328912296
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328924398
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435328926644
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435328928636
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328929546
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328949770
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328964506
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328965441
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435328965464
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435328987008
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435328989144
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435328990609
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435328991586
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329003080
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329004365
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1435329011687
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329017648
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329018384
+activated,view,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui.ServersView",1435329020025
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.run",1435329022637
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329023535
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329039463
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329040294
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329128744
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329131955
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329136842
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329139149
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329146092
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329147381
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329169017
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329170331
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329188703
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329190121
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329192545
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329192748
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329271967
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329273210
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329277322
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329280709
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329287423
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329287447
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329289929
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329291559
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329293741
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329295237
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329296381
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329301032
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435329306082
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329306399
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329306424
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329311685
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329314308
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329317066
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329318065
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329318428
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329318704
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329319506
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329319506
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329332950
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329336173
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435329344215
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329352734
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329357368
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329361272
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1435329370369
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329370607
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1435329370625
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1435329372055

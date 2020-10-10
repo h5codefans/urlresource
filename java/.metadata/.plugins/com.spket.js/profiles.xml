@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles>
+<profile id="jQuery" name="jQuery">use namespace jQuery;
+include 'D:\\Program Files\\eclipse\\jquery-1.9.1.min.js';
+</profile>
+</profiles>

@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editor.html",1434440925610
+started,bundle,com.aptana.ide.editor.js,1.2.7.024747,"com.aptana.ide.editor.js",1434440925648
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1434440925948
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1434440926080
+started,bundle,com.aptana.ide.editors.codeassist,1.2.7.024747,"com.aptana.ide.editors.codeassist",1434440926404
+opened,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434440927195
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434440927277
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434440930133
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434440933238
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434440937962
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1434440938323
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1434440939844
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434440940801
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434440944281
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434440945662
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434440956412
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434440960105
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434440976010
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1434440981014
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434440981932
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434440983315
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434440987443
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434440988417
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434440993752
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441042666
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1434441044120
+started,bundle,org.eclipse.ui.views.properties.tabbed,3.5.200.v20110928-1505,"org.eclipse.ui.views.properties.tabbed",1434441044175
+started,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1434441044275
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1434441044329
+opened,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.PropertySheet",1434441044874
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.PropertySheet",1434441044920
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1434441045124
+opened,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441045350
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441045405
+started,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1434441047107
+started,bundle,org.eclipse.jem,2.0.501.v201111030500,"org.eclipse.jem",1434441047192
+started,bundle,org.eclipse.jst.j2ee,1.1.503.v201202090300,"org.eclipse.jst.j2ee",1434441047383
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1434441047476
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1434441047651
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441056034
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441059796
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441075030
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441076366
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1434441079723
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441086086
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441087356
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441091165
+started,bundle,org.eclipse.ant.ui,3.5.101.v20120110-1739,"org.eclipse.ant.ui",1434441100828
+started,bundle,org.eclipse.pde.core,3.7.1.v20120103_r372,"org.eclipse.pde.core",1434441100950
+started,bundle,org.eclipse.wst.jsdt.debug.rhino.ui,1.0.1.v201201112313,"org.eclipse.wst.jsdt.debug.rhino.ui",1434441100970
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1434441101198
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1434441101815
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1434441101982
+error,log,,,"Could not search for markers.",1434441102360
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441102554
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.rename",1434441102565
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441103513
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441104849
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1434441107202
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1434441113858
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441119937
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441126105
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.rename",1434441126112
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1434441128937
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441132923
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1434441137039
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441137366
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.rename",1434441137372
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441140796
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441153659
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441158611
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441162294
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441163152
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1434441186414
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441190709
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441195228
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441196275
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441199683
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441200488
+executed,command,com.aptana.ide.editors,1.2.7.024747,"com.aptana.ide.editors.showDocAction",1434441210276
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.garbagecollector",1434441223126
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441230276
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441245449
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441246809
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441247389
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441249540
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441254523
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441265266
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441271452
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441275737
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441282100
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441285690
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441287501
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441308610
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441315434
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441317121
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441318863
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441320242
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441326037
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441326054
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441327342
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441336987
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441346720
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441375245
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1434441375253
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441417837
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441419040
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441422211
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441424793
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1434441426759
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1434441429743
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441432214
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441435320
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441436366
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441463926
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441484649
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441488506
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441495213
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1434441495221
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441496154
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441501544
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441505924
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441509432
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1434441509443
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441511684
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441519916
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1434441519925
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441520747
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441524193
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441525876
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441528571
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441531316
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441536010
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441540291
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.PropertySheet",1434441543047
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441546433
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441569561
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441569589
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441573154
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441597968
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.PropertySheet",1434441599341
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441605824
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441614538
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441617355
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441629728
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441632288
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441636636
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441638125
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441639296
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441645609
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441649483
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441654866
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441662103
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441669650
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434441683434
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441688223
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441691133
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441698032
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441771431
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441774986
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441779786
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441782114
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441784947
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441787954
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441789076
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441796442
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441801745
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441802889
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441806387
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441816378
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1434441816389
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441819868
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441823494
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1434441823501
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441824079
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441825485
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441826847
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441828011
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434441830342
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441833454
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441836662
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1434441836677
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441839328
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441841481
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1434441841489
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441842014
+started,bundle,org.eclipse.help.base,3.6.2.v201202080800,"org.eclipse.help.base",1434441855505
+started,bundle,org.eclipse.help.ui,3.5.101.r37_20110819,"org.eclipse.help.ui",1434441855542
+opened,view,org.eclipse.help.ui,3.5.101.r37_20110819,"org.eclipse.help.ui.HelpView",1434441855875
+activated,view,org.eclipse.help.ui,3.5.101.r37_20110819,"org.eclipse.help.ui.HelpView",1434441855936
+started,bundle,org.eclipse.ui.cheatsheets,3.4.100.v20110425,"org.eclipse.ui.cheatsheets",1434441855994
+started,bundle,org.eclipse.ui.intro,3.4.100.v20110425,"org.eclipse.ui.intro",1434441856029
+started,bundle,org.eclipse.ui.intro.universal,3.2.500.v20110510,"org.eclipse.ui.intro.universal",1434441858002
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Format.html"" for search indexing",1434441860908
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.rename",1434441863365
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441864463
+executed,command,com.aptana.ide.editors,1.2.7.024747,"com.aptana.ide.editors.showDocAction",1434441864895
+executed,command,com.aptana.ide.editors,1.2.7.024747,"com.aptana.ide.editors.showDocAction",1434441865580
+executed,command,com.aptana.ide.editors,1.2.7.024747,"com.aptana.ide.editors.showDocAction",1434441867069
+executed,command,com.aptana.ide.editors,1.2.7.024747,"com.aptana.ide.editors.showDocAction",1434441872357
+executed,command,com.aptana.ide.editors,1.2.7.024747,"com.aptana.ide.editors.showDocAction",1434441872893
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Selector.html"" for search indexing",1434441873274
+activated,view,org.eclipse.help.ui,3.5.101.r37_20110819,"org.eclipse.help.ui.HelpView",1434441874758
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441880499
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441881410
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441882275
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Color.html"" for search indexing",1434441884232
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Base.html"" for search indexing",1434441885598
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/DOM.html"" for search indexing",1434441887141
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441887757
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Style.html"" for search indexing",1434441889664
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441895656
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index.htm"" for search indexing",1434441897852
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Visual.html"" for search indexing",1434441899814
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Async.html"" for search indexing",1434441900386
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441900513
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/DateTime.html"" for search indexing",1434441901097
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441901618
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Iter.html"" for search indexing",1434441905394
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/DragAndDrop.html"" for search indexing",1434441907120
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/LoggingPane.html"" for search indexing",1434441908387
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Sortable.html"" for search indexing",1434441909454
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Logging.html"" for search indexing",1434441910204
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.aptana.ide.documentation/html/reference/api/HTML.element.Document Type Definition.html"" for search indexing",1434441910466
+error,log,,,"An error occured while pre-processing help XHTML document ""/com.mochikit.1.4/docs/MochiKit Documentation Index_files/Signal.html"" for search indexing",1434441911114
+error,log,,,"Help documentation could not be indexed completely.",1434441911693
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434441929819
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441931615
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441939701
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441951319
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434441963601
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434441965174
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1434441997922
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434442001818
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434442003113
+activated,editor,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.core.dtdsource.source",1434442003180
+closed,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434442003184
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1434442004689
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434442010083
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434442011554
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1434442011559
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1434442013641
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434442021943
+opened,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434442032323
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1434442032373
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1434442032433
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1434442035763
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1434442036953
+activated,view,org.eclipse.help.ui,3.5.101.r37_20110819,"org.eclipse.help.ui.HelpView",1434442044443
+started,bundle,org.eclipse.equinox.http.jetty,2.0.100.v20110502,"org.eclipse.equinox.http.jetty",1434442054513

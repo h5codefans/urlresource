@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<soft>
+   <![CDATA[
+      <a>
+        <a1>中国</a1>
+        <a2>aa</a2>
+      </a>
+   ]]>
+   <b>
+     &lt;b1&gt;bb&lt;/b1&gt;
+     <b2>bb</b2>
+   </b>
+</soft>

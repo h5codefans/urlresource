@@ -1,0 +1,18 @@
+package com.bjsxt.gen02;
+
+/**
+ * 泛型方法<>返回类型前面
+ * @author Administrator
+ *
+ */
+public class TestMethod {
+	
+    public static void main(String[] args) {
+	   test("a");
+    }
+    
+   //泛型方法
+    public static <T> void test(T a){
+    	System.out.println(a);
+    }
+}

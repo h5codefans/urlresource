@@ -1,0 +1,11 @@
+computeSourcePath=true
+configMode=serverFile
+contextsDir=D\:\\tomcat\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+jvmClasspath=D%3A%5Ctomcat%5Clib%5Cservlet-api.jar;D%3A%5Ctomcat%5Clib%5Cjsp-api.jar;
+managerUrl=http\://localhost\:8888/manager
+tomcatConfigFile=D\:\\tomcat\\conf\\server.xml
+tomcatDir=D\:\\tomcat
+tomcatJRE=1428572398320
+tomcatVersion=tomcatV7

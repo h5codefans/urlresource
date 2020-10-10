@@ -1,0 +1,13 @@
+package cha3;
+
+public class for_loop {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

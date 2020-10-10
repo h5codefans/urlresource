@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="497" key="ChooseUrlDialog.size.x"/>
+	<item value="376" key="ChooseUrlDialog.size.y"/>
+	<item value="68" key="NewRepositoryDialog.location.y"/>
+	<item value="406" key="NewRepositoryDialog.location.x"/>
+	<item value="554" key="NewRepositoryDialog.size.x"/>
+	<item value="444" key="NewRepositoryDialog.size.y"/>
+	<item value="435" key="ChooseUrlDialog.location.x"/>
+	<item value="41" key="ChooseUrlDialog.location.y"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="svn://localhost:8888/svn"/>
+			<item value="http://localhost:8888/svn"/>
+			<item value="svn://svn server E:/svnserver/"/>
+			<item value="file:///E:/svnserver"/>
+			<item value="file://E:/svnserver"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,10 @@
+package com.bjsxt.gen03;
+
+/**
+ * 泛型接口
+ * @author Administrator
+ *
+ */
+public interface Comparable {
+
+}

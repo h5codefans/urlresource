@@ -1,0 +1,7 @@
+__etc_hosts_path=C\:\\Windows\\System32\\drivers\\etc\\hosts
+__httpd_conf_path=D\:\\Program Files\\AppServ\\Apache2.2\\conf\\httpd.conf
+_apache_run_pref=D\:\\Program Files\\AppServ\\Apache2.2\\bin\\httpd.exe
+_external_parser=D\:\\Program Files\\AppServ\\php6\\php -l -f {0}
+_mysql_run_pref=D\:\\Program Files\\AppServ\\MySQL\\bin\\mysqld.exe
+_php_run_pref=D\:\\Program Files\\AppServ\\php6\\php.exe
+eclipse.preferences.version=1

@@ -1,0 +1,24 @@
+package cn.itcast.xml.dom4j;
+
+import java.io.File;
+
+import org.dom4j.Document;
+import org.dom4j.Element;
+import org.dom4j.io.SAXReader;
+import org.junit.Test;
+
+
+public class Demo01 {
+	
+	//读取xml文档第二本书的：<书名>javascript网页开发</书名>
+    @Test
+	public void read() throws Exception{
+		
+      SAXReader reader=new SAXReader();
+      Document document=reader.read(new File("src/book.xml"));
+      
+      Element root=document.getRootElement();
+      Element book=(Element) root.elements("书").get(1);
+      String value=book.element("书名").getText();
+	}
+}

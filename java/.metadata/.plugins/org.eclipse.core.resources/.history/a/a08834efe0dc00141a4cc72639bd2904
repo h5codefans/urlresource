@@ -1,0 +1,79 @@
+package cn.bjsxt.lianxi;
+
+import java.util.Date;
+
+public class BankAccount {
+    
+	private int[] bankaccountid=new int[6];
+	private Date date;
+	private double money;
+	private double[] rest=new double[6];
+	
+	public BankAccount(){
+		
+	}
+	
+	public BankAccount(int[] bankaccountid,Date date,double money,double[] rest){
+		this.bankaccountid=bankaccountid;
+		this.date=date;
+		this.money=money;
+		this.rest=rest;
+	}
+	
+	public void bankIn(int bankid,double money){
+		int i;
+		for(i=0;i<this.bankaccountid.length;i++){
+			if(this.bankaccountid[i]==bankid){
+				rest[i]=rest[i]+money;
+				System.out.println("证件号:"+bankaccountid[i]+";开户日期:"+date+";存入金额:"+money+";剩余金额:"+rest[i]+"。");
+                break;
+			}
+		}
+		if(this.bankaccountid.length==i){
+			System.out.println("对不起，账号"+bankid+"不存在！");
+		}
+		
+	}
+	
+	public void bankOut(int bankid,double money){
+		int i;
+		for(i=0;i<this.bankaccountid.length;i++){
+			if(bankaccountid[i]==bankid){
+				rest[i]=rest[i]-money;
+				System.out.println("证件号:"+bankaccountid[i]+";开户日期:"+date+";存入金额:"+money+";剩余金额:"+rest[i]+"。");
+				return ;
+			}
+		}
+		if(this.bankaccountid.length==i){
+			System.out.println("对不起，账号"+bankid+"不存在！");
+		}
+	}
+	
+	int accountid;
+	public void addAccount(){
+       if(accountid<bankaccountid.length){
+           bankaccountid[accountid++]=accountid;
+           date=new Date();
+       }
+	}
+	public static void main(String[] args) {
+		
+	  BankAccount aa=new BankAccount();
+	  aa.addAccount();
+	  aa.addAccount();
+	  aa.addAccount();
+	  aa.addAccount();
+	  aa.addAccount();
+	  aa.addAccount();
+	  aa.bankIn(1, 30);
+	  aa.bankIn(1, 40);
+	  aa.bankIn(2, 30);
+	  aa.bankIn(2, 60);
+	  aa.bankIn(4, 20);
+	  aa.bankIn(5, 30);
+	  aa.bankIn(6, 40);
+	  
+
+		
+	}
+}

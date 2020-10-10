@@ -1,0 +1,8 @@
+package cn.bjsxt.collection2;
+
+public class Test01 {
+     public static void main(String[] args){
+    	 Employee e=Employee();
+    	 e.setId("0301");
+     }
+}

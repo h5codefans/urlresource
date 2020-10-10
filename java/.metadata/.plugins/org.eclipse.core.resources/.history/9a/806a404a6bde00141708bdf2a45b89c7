@@ -1,0 +1,20 @@
+package cn.bjsxt.lianxi;
+
+public class Test<T1,T2>{
+	public static void main(String[] args) {
+		Calculate calculate=new Calculate();
+	}
+}
+class Calculate{
+	
+	
+}
+class CanNotDiv0 extends Exception{
+	public CanNotDiv0(){
+		
+	}
+	public CanNotDiv0(String message){
+		super(message);
+	}
+}
+

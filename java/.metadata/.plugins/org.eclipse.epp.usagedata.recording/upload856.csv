@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1440650332706
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1440650332722
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1440650332738
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1440650332753
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1440650332753
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1440650332769
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1440650332784
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1440650332800
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1440650332800
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1440650332816
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1440650332831
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1440650332847
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1440650332847
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1440650332862
+started,bundle,org.eclipse.update.ui,3.2.300.v20100512,"org.eclipse.update.ui",1440650332878
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1440650332894
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1440650332909
+started,bundle,com.aptana.ide.core,1.2.7.024747,"com.aptana.ide.core",1440650332925
+started,bundle,com.aptana.ide.core.ui,1.2.7.024747,"com.aptana.ide.core.ui",1440650332925
+started,bundle,com.aptana.ide.db.ui,1.2.7.024747,"com.aptana.ide.db.ui",1440650332925
+started,bundle,com.aptana.ide.debug.ui,1.2.7.024747,"com.aptana.ide.debug.ui",1440650332940
+started,bundle,com.aptana.ide.documentation,1.2.7.024747,"com.aptana.ide.documentation",1440650332940
+started,bundle,com.aptana.ide.epl,1.2.7.024747,"com.aptana.ide.epl",1440650332956
+started,bundle,com.aptana.ide.extras,1.2.7.024747,"com.aptana.ide.extras",1440650332972
+started,bundle,com.aptana.ide.framework.jaxer,1.2.7.024747,"com.aptana.ide.framework.jaxer",1440650332972
+started,bundle,com.aptana.ide.framework.jaxer.server.win32,1.2.7.024747,"com.aptana.ide.framework.jaxer.server.win32",1440650332987
+started,bundle,com.aptana.ide.intro,1.2.7.024747,"com.aptana.ide.intro",1440650333003
+started,bundle,com.aptana.ide.samples,1.2.7.024747,"com.aptana.ide.samples",1440650333003
+started,bundle,com.aptana.ide.server,1.2.7.024747,"com.aptana.ide.server",1440650333003
+started,bundle,com.aptana.ide.server.cloud,1.2.7.024747,"com.aptana.ide.server.cloud",1440650333034
+started,bundle,com.aptana.ide.server.core,1.2.7.024747,"com.aptana.ide.server.core",1440650333034
+started,bundle,com.aptana.ide.server.jetty,1.2.7.024747,"com.aptana.ide.server.jetty",1440650333050
+started,bundle,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal",1440650333065
+started,bundle,com.aptana.ide.server.ui,1.2.7.024747,"com.aptana.ide.server.ui",1440650333065
+started,bundle,com.aptana.ide.ssh,1.2.7.024747,"com.aptana.ide.ssh",1440650333065
+started,bundle,com.aptana.ide.syncing,1.2.7.024747,"com.aptana.ide.syncing",1440650333081
+started,bundle,com.aptana.ide.update,1.2.7.024747,"com.aptana.ide.update",1440650333096
+started,bundle,org.tigris.subversion.clientadapter,1.6.12,"org.tigris.subversion.clientadapter",1440650333112
+started,bundle,org.tigris.subversion.subclipse.core,1.6.18,"org.tigris.subversion.subclipse.core",1440650333128
+started,bundle,org.tigris.subversion.subclipse.mylyn,3.0.0,"org.tigris.subversion.subclipse.mylyn",1440650333128
+os,sysinfo,,,"win32",1440650333128
+arch,sysinfo,,,"x86",1440650333128
+ws,sysinfo,,,"win32",1440650333128
+locale,sysinfo,,,"zh_CN",1440650333128
+processors,sysinfo,,,"4",1440650333128
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1440650333128
+java.runtime.version,sysinfo,,,"1.6.0_10-rc2-b32",1440650333128
+java.specification.name,sysinfo,,,"Java Platform API Specification",1440650333128
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1440650333128
+java.specification.version,sysinfo,,,"1.6",1440650333128
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1440650333128
+java.version,sysinfo,,,"1.6.0_10-rc2",1440650333128
+java.vm.info,sysinfo,,,"mixed mode",1440650333128
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1440650333128
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1440650333128
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1440650333128
+java.vm.specification.version,sysinfo,,,"1.0",1440650333128
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1440650333128
+java.vm.version,sysinfo,,,"11.0-b15",1440650333128
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650333237
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1440650333471
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1440650333486
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1440650333611
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1440650333814
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1440650336185
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650336934
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650338541
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1440650342744
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1440650343321
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1440650343602
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1440650343648
+started,bundle,org.eclipse.core.filebuffers,3.5.200.v20110928-1504,"org.eclipse.core.filebuffers",1440650344023
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1440650344928
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1440650344943
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1440650345006
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1440650345240
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1440650345333
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1440650345567
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1440650345614
+started,bundle,com.aptana.ide.io.file,1.2.7.024747,"com.aptana.ide.io.file",1440650346566
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1440650346815
+started,bundle,com.collabnet.subversion.merge,2.2.4,"com.collabnet.subversion.merge",1440650347408
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1440650347517
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1440650347580
+started,bundle,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui",1440650347736
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1440650352540
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1440650352556
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1440650352665
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1440650352665
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1440650352852
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1440650352852
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r372_v20111101-0700,"org.eclipse.ltk.core.refactoring",1440650352946
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1440650352977
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.openProject",1440650356050
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440650365286
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440650373023
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650378546
+started,bundle,org.eclipse.jst.servlet.ui,1.1.502.v201202011054,"org.eclipse.jst.servlet.ui",1440650405456
+started,bundle,org.eclipse.wst.common.environment,1.0.400.v200912181832,"org.eclipse.wst.common.environment",1440650405487
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1440650405534
+started,bundle,org.eclipse.emf.common,2.7.0.v20120127-1122,"org.eclipse.emf.common",1440650405581
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1440650405955
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1440650406002
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1440650406064
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1440650406095
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1440650406095
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1440650406283
+started,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1440650406361
+started,bundle,org.eclipse.jem,2.0.501.v201111030500,"org.eclipse.jem",1440650406439
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1440650406595
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1440650406673
+started,bundle,org.eclipse.jst.j2ee,1.1.503.v201202090300,"org.eclipse.jst.j2ee",1440650406751
+started,bundle,org.eclipse.jst.j2ee.web,1.1.502.v201202090300,"org.eclipse.jst.j2ee.web",1440650406797
+started,bundle,org.eclipse.jst.j2ee.ui,1.1.503.v201201190400,"org.eclipse.jst.j2ee.ui",1440650406875
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1440650407016
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1440650407047
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650413895
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1440650413911
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440650414956
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650419964
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650424971
+started,bundle,de.guhsoft.jinto.core,0.13.5,"de.guhsoft.jinto.core",1440650425096
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1440650425174
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1440650425190
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440650427592
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650430369
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1440650454892
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650482286
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1440650482301
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650490866
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.navigate.backwardHistory",1440650512378
+error,log,,,"null",1440650544468
+error,log,,,"Unhandled event loop exception",1440650544468
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650558788
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1440650558820
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440650560941
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650562891
+started,bundle,org.eclipse.wst.server.core,1.1.304.v20120208_1420,"org.eclipse.wst.server.core",1440650565325
+started,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1440650565481
+started,bundle,org.eclipse.jst.jee,1.0.402.v201202021530,"org.eclipse.jst.jee",1440650565559
+started,bundle,org.eclipse.jst.server.core,1.2.202.v20110419,"org.eclipse.jst.server.core",1440650565574
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1440650566232
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1440650566732
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1440650566902
+error,log,,,"Could not search for markers.",1440650567462
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650567552
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1440650567582
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1440650567582
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650571336
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650648665
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1440650648665
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650651442
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650680333
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1440650680349
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1440650680349
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1440650680817
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1440650684061
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650698569
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650703936
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1440650703951
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650705823
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650718288
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1440650718303
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1440650718303
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1440650718771
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1440650721392
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440650723810
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.closeProject",1440650725277
+error,log,,,"Could not search for markers.",1440650725402
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650727461
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650787090
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650790195
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650794700
+opened,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440650794850
+opened,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.GenericHistoryView",1440650794990
+opened,view,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui.views.repositories",1440650795079
+activated,perspective,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.svnPerspective",1440650795096
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440650795120
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.perspectives.showPerspective",1440650795131
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.perspectives.showPerspective",1440650795131
+started,bundle,org.tigris.subversion.clientadapter.javahl,1.6.17,"org.tigris.subversion.clientadapter.javahl",1440650797452
+started,bundle,org.tigris.subversion.clientadapter.svnkit,1.6.15,"org.tigris.subversion.clientadapter.svnkit",1440650797458
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1440650799486
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650799607
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650802568
+opened,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.annotations.AnnotateView",1440650803496
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.annotations.AnnotateView",1440650803501
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440650805254
+activated,view,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui.views.repositories",1440650806948
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1440650807725
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440650809851
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650816681
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650818452
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650819335
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650842554
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650854314
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650858635
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650862492
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1440650932511
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650962183
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.annotations.AnnotateView",1440650963701
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440650964624
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650966037
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650968030
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.annotations.AnnotateView",1440650972723
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440650973396
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650979445
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650992921
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440650998018
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651019769
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.annotations.AnnotateView",1440651022084
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440651023040
+closed,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.annotations.AnnotateView",1440651023041
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1440651028272
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1440651028278
+closed,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440651028372
+closed,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.GenericHistoryView",1440651028393
+closed,view,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui.views.repositories",1440651028394
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.closePerspective",1440651028395
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1440651029464
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.openProject",1440651034578
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440651035333
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651050583
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651064988
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651068134
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651092301
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440651095266
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1440651098434
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1440651099745
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440651100284
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651104171
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651115196
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440651116468
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651119319
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651321989
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651323708
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651324460
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651324932
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651465615
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1440651468379
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.closeProject",1440651469792
+error,log,,,"Could not search for markers.",1440651469821
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651476948
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1440651479277
+opened,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440651479320
+opened,view,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.GenericHistoryView",1440651479335
+opened,view,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui.views.repositories",1440651479356
+activated,perspective,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.svnPerspective",1440651479372
+activated,view,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui.repository.RepositoriesView",1440651479396
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.perspectives.showPerspective",1440651479407

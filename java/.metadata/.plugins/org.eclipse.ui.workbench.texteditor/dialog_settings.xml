@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jst.jsp.ui.internal.preferences.ui.JSPTemplatePreferencePage$JSPEditTemplateDialog_dialogBounds">
+		<item value="617" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="361" key="DIALOG_HEIGHT"/>
+		<item value="124" key="DIALOG_Y_ORIGIN"/>
+		<item value="50" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.templates.TemplatePreferencePage$EditTemplateDialog_dialogBounds">
+		<item value="617" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="361" key="DIALOG_HEIGHT"/>
+		<item value="124" key="DIALOG_Y_ORIGIN"/>
+		<item value="110" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Node" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="Node"/>
+			<item value="add"/>
+			<item value="SxLinkedList"/>
+			<item value="ensureCapacity"/>
+			<item value="rangeCheck"/>
+			<item value="remove"/>
+			<item value="value"/>
+			<item value="InterfaceA"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+			<item value="seatCount"/>
+			<item value="戴尔"/>
+			<item value="Dell"/>
+			<item value="神舟"/>
+			<item value="Shenzhou"/>
+			<item value="ProxyStar"/>
+			<item value="UTF-8"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="273" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="399" key="DIALOG_HEIGHT"/>
+		<item value="139" key="DIALOG_Y_ORIGIN"/>
+		<item value="880" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

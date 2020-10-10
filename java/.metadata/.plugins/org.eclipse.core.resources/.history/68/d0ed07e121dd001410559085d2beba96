@@ -1,0 +1,44 @@
+package com.bjsxt.gen02;
+
+
+/**
+ * 泛型类：声明是使用泛型
+ * 字母：
+ * T type表示类型
+ * K V分别表示键值对中Key Value
+ * E 代表Element
+ * 使用时确定类型
+ * 注意：
+ *   1.泛型使用时只能为引用类型，不能为基本类型
+ *   2.泛型声明是不能使用静态属性或静态方法上
+ * @author Administrator
+ *
+ * @param <T>
+ */
+public class Student<T1,T2> {
+    private T1 javaseScore;
+    private T2 oracleScore;
+    
+    
+	public T1 getJavaseScore() {
+		return javaseScore;
+	}
+	public void setJavaseScore(T1 javaseScore) {
+		this.javaseScore = javaseScore;
+	}
+	public T2 getOracleScore() {
+		return oracleScore;
+	}
+	public void setOracleScore(T2 oracleScore) {
+		this.oracleScore = oracleScore;
+	}
+    
+    public static void main(String[] args){
+    	//使用时指定类型(引用类型)
+    	Student<String,Integer>stu=new Student<String,Integer>();
+    	//1.安全：类型检查
+    	stu.setJavaseScore("优秀");
+    	//2.省心：类型转换
+        it=stu.getOracleScore();
+    }
+}

@@ -1,0 +1,8 @@
+package cn.itcast.xml.sax;
+
+public class Book {
+     
+	private String name;
+	private String author;
+	private String price;
+}

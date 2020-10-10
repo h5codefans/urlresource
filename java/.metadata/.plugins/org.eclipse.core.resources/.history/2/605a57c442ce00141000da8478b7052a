@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+
+/**
+ * 测试Scanner类的使用，如何接受键盘的输入。
+ * @author Administrator
+ *
+ */
+public class TestScanner {
+     public static void main(String[] args){
+    	 Scanner s=new Scanner(System.in);
+    	 String str=s.next();    //程序运行到next会阻塞，等待键盘输入
+    	 
+    	 System.out.println("刚才键盘输入："+str);
+     }
+}

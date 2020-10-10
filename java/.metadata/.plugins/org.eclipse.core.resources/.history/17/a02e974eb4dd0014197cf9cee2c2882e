@@ -1,0 +1,8 @@
+package cn.bjsxt.lianxi;
+
+public class TestVehicle {
+    public static void main(String[] args) {
+		Car car=new Car(4,10,33);
+		car.car();
+	}
+}

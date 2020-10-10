@@ -1,0 +1,19 @@
+package com.bjsxt.gen01;
+
+/**
+ * 获取值：强制类型转换
+ * @author Administrator
+ *
+ */
+public class App {
+  
+	public static void main(String[] args) {
+		Object obj=80;
+		int score=(int)obj; //Object-->Integer-->自动拆箱
+		System.out.println(score);
+		
+		//存入整数，装箱int--->Integer--->Object
+		Student stu=new Student(80,90);
+		stu.getJavase();
+	}
+}

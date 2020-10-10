@@ -1,0 +1,10 @@
+package cn.bjsxt.collection;
+
+/**
+ * 测试Map的基本用法
+ * @author Administrator
+ *
+ */
+public class TestMap {
+
+}

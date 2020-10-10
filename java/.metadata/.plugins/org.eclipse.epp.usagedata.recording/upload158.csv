@@ -1,0 +1,257 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.aptana.ide.server.jetty,1.2.7.024747,"com.aptana.ide.server.jetty",1426860976873
+started,bundle,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal",1426860976874
+started,bundle,com.aptana.ide.server.ui,1.2.7.024747,"com.aptana.ide.server.ui",1426860976874
+started,bundle,com.aptana.ide.ssh,1.2.7.024747,"com.aptana.ide.ssh",1426860976875
+started,bundle,com.aptana.ide.syncing,1.2.7.024747,"com.aptana.ide.syncing",1426860977124
+started,bundle,com.aptana.ide.update,1.2.7.024747,"com.aptana.ide.update",1426860977125
+started,bundle,org.eclipse.eclipsemonkey,1.2.7.024747,"org.eclipse.eclipsemonkey",1426860977125
+started,bundle,org.eclipse.eclipsemonkey.doms,1.2.7.024747,"org.eclipse.eclipsemonkey.doms",1426860977126
+started,bundle,org.eclipse.eclipsemonkey.lang.javascript,1.2.7.024747,"org.eclipse.eclipsemonkey.lang.javascript",1426860977126
+os,sysinfo,,,"win32",1426860977127
+arch,sysinfo,,,"x86",1426860977127
+ws,sysinfo,,,"win32",1426860977127
+locale,sysinfo,,,"zh_CN",1426860977127
+processors,sysinfo,,,"4",1426860977127
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1426860977127
+java.runtime.version,sysinfo,,,"1.6.0_10-rc2-b32",1426860977127
+java.specification.name,sysinfo,,,"Java Platform API Specification",1426860977127
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1426860977127
+java.specification.version,sysinfo,,,"1.6",1426860977127
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1426860977127
+java.version,sysinfo,,,"1.6.0_10-rc2",1426860977128
+java.vm.info,sysinfo,,,"mixed mode",1426860977128
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1426860977128
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1426860977128
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1426860977128
+java.vm.specification.version,sysinfo,,,"1.0",1426860977128
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1426860977128
+java.vm.version,sysinfo,,,"11.0-b15",1426860977128
+error,log,,,"(Build 1.2.7.024747) [ERROR] Invalid key",1426860980855
+started,bundle,com.aptana.ide.search,1.2.7.024747,"com.aptana.ide.search",1426860982740
+started,bundle,com.aptana.ide.editors,1.2.7.024747,"com.aptana.ide.editors",1426860982743
+started,bundle,com.aptana.ide.scripting,1.2.7.024747,"com.aptana.ide.scripting",1426860982747
+started,bundle,com.aptana.ide.xul,1.2.7.024747,"com.aptana.ide.xul",1426860982754
+started,bundle,com.aptana.ide.debug.core,1.2.7.024747,"com.aptana.ide.debug.core",1426860982768
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1426860982778
+opened,editor,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal.ui.MyAptanaEditor",1426860982978
+activated,editor,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal.ui.MyAptanaEditor",1426860983018
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1426860983104
+error,log,,,"(Build 1.2.7.024747) [ERROR] License Channel: Key Is No Longer Valid.",1426860984096
+error,log,,,"(Build 1.2.7.024747) [ERROR] License Channel: Key Is No Longer Valid.",1426860984097
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1426860987390
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1426860988141
+closed,editor,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal.ui.MyAptanaEditor",1426860990973
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1426860992023
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426860997216
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861030624
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1426861033316
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1426861033333
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1426861033334
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1426861033342
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1426861033342
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1426861033420
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861035131
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861198139
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1426861198158
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1426861198159
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861199105
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861201164
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861239791
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861240635
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861241136
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1426861241957
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1426861249974
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1426861251376
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1426861251376
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1426861256770
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1426861258289
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1426861259149
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861262017
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861298566
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1426861298579
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1426861298580
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861300890
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861304282
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1426861307349
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861313500
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1426861403478
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861411703
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.export",1426861411717
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.export",1426861411718
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861418260
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861424592
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861425211
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861477918
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861479820
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861481113
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1426861481140
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1426861481187
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1426861481475
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.505.v201004211805,"org.eclipse.jst.ws.axis.consumption.ui",1426861481476
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.407.v201104071820,"org.eclipse.jst.ws.axis.consumption.core",1426861481476
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.104.v201004211805,"org.eclipse.jst.ws.axis2.creation.ui",1426861481477
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.103.v201004211805,"org.eclipse.jst.ws.axis2.consumption.ui",1426861481477
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.106.v201004211805,"org.eclipse.jst.ws.axis2.creation.core",1426861481478
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.105.v201004211805,"org.eclipse.jst.ws.axis2.consumption.core",1426861481478
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.303.v201003110431,"org.eclipse.jst.ws.axis2.ui",1426861481478
+stopped,bundle,org.eclipse.jst.ws.axis2.core,1.0.204.v201004211805,"org.eclipse.jst.ws.axis2.core",1426861481479
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.ui,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.ui",1426861481479
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.609.v201103082016,"org.eclipse.jst.ws.creation.ui",1426861481480
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.ui,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.ui",1426861481481
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.402.v201201250306,"org.eclipse.jst.ws.consumption.ui",1426861481481
+stopped,bundle,org.eclipse.jst.ws.consumption,1.0.603.v201202012024,"org.eclipse.jst.ws.consumption",1426861481482
+stopped,bundle,org.eclipse.jst.ws.cxf.consumption.core,1.0.0.v201003222311,"org.eclipse.jst.ws.cxf.consumption.core",1426861481483
+stopped,bundle,org.eclipse.jst.ws.cxf.creation.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.creation.core",1426861481483
+stopped,bundle,org.eclipse.jst.ws.cxf.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.cxf.ui",1426861481484
+stopped,bundle,org.eclipse.jst.ws.cxf.core,1.0.100.v201104022153,"org.eclipse.jst.ws.cxf.core",1426861481484
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1426861551647
+started,bundle,org.eclipse.osgi,3.7.2.v20120110-1415,"org.eclipse.osgi",1426861551647
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20110815-1438,"org.eclipse.equinox.simpleconfigurator",1426861551647
+started,bundle,com.ibm.icu,4.4.2.v20110823,"com.ibm.icu",1426861551647
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20110423-0524,"org.eclipse.core.contenttype",1426861551647
+started,bundle,org.eclipse.core.databinding.observable,1.4.0.I20110222-0800,"org.eclipse.core.databinding.observable",1426861551647
+started,bundle,org.eclipse.core.expressions,3.4.300.v20110228,"org.eclipse.core.expressions",1426861551647
+started,bundle,org.eclipse.core.filesystem,1.3.100.v20110423-0524,"org.eclipse.core.filesystem",1426861551647
+started,bundle,org.eclipse.core.jobs,3.5.101.v20120113-1953,"org.eclipse.core.jobs",1426861551657
+started,bundle,org.eclipse.core.net,1.2.100.I20110511-0800,"org.eclipse.core.net",1426861551657
+started,bundle,org.eclipse.core.resources,3.7.101.v20120125-1505,"org.eclipse.core.resources",1426861551657
+started,bundle,org.eclipse.core.runtime,3.7.0.v20110110,"org.eclipse.core.runtime",1426861551657
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1426861551657
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20110110,"org.eclipse.core.runtime.compatibility.auth",1426861551657
+started,bundle,org.eclipse.debug.core,3.7.1.v20111129-2031,"org.eclipse.debug.core",1426861551657
+started,bundle,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui",1426861551657
+started,bundle,org.eclipse.emf.common,2.7.0.v20120127-1122,"org.eclipse.emf.common",1426861551657
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1426861551657
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1426861551657
+started,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1426861551657
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201106061540,"org.eclipse.epp.usagedata.gathering",1426861551657
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1426861551657
+started,bundle,org.eclipse.equinox.app,1.3.100.v20110321,"org.eclipse.equinox.app",1426861551667
+started,bundle,org.eclipse.equinox.common,3.6.0.v20110523,"org.eclipse.equinox.common",1426861551667
+started,bundle,org.eclipse.equinox.ds,1.3.1.R37x_v20110701,"org.eclipse.equinox.ds",1426861551667
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1426861551667
+started,bundle,org.eclipse.equinox.p2.core,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.core",1426861551667
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.300.v20110815-1419,"org.eclipse.equinox.p2.directorywatcher",1426861551667
+started,bundle,org.eclipse.equinox.p2.engine,2.1.1.R37x_v20111003,"org.eclipse.equinox.p2.engine",1426861551667
+started,bundle,org.eclipse.equinox.p2.metadata,2.1.0.v20110815-1419,"org.eclipse.equinox.p2.metadata",1426861551667
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.0.v20110815-1419,"org.eclipse.equinox.p2.metadata.repository",1426861551667
+started,bundle,org.eclipse.equinox.p2.operations,2.1.1.R37x_v20111111,"org.eclipse.equinox.p2.operations",1426861551667
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.100.v20110815-1419,"org.eclipse.equinox.p2.reconciler.dropins",1426861551667
+started,bundle,org.eclipse.equinox.p2.repository,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.repository",1426861551667
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.100.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.scheduler",1426861551667
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20110815-1419,"org.eclipse.equinox.p2.updatechecker",1426861551667
+started,bundle,org.eclipse.equinox.preferences,3.4.2.v20120111-2020,"org.eclipse.equinox.preferences",1426861551667
+started,bundle,org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,"org.eclipse.equinox.registry",1426861551677
+started,bundle,org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,"org.eclipse.equinox.security",1426861551677
+started,bundle,org.eclipse.equinox.util,1.0.300.v20110502,"org.eclipse.equinox.util",1426861551677
+started,bundle,org.eclipse.help,3.5.100.v20110426,"org.eclipse.help",1426861551677
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1426861551677
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1426861551677
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1426861551677
+started,bundle,org.eclipse.jem,2.0.501.v201111030500,"org.eclipse.jem",1426861551677
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1426861551677
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1426861551677
+started,bundle,org.eclipse.jface,3.7.0.v20110928-1505,"org.eclipse.jface",1426861551677
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1426861551677
+started,bundle,org.eclipse.jst.common.frameworks,1.1.501.v201201190400,"org.eclipse.jst.common.frameworks",1426861551677
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1426861551677
+started,bundle,org.eclipse.jst.j2ee,1.1.503.v201202090300,"org.eclipse.jst.j2ee",1426861551687
+started,bundle,org.eclipse.jst.j2ee.core,1.2.102.v201202090300,"org.eclipse.jst.j2ee.core",1426861551687
+started,bundle,org.eclipse.jst.j2ee.web,1.1.502.v201202090300,"org.eclipse.jst.j2ee.web",1426861551687
+started,bundle,org.eclipse.jst.server.core,1.2.202.v20110419,"org.eclipse.jst.server.core",1426861551687
+started,bundle,org.eclipse.jst.server.tomcat.core,1.1.301.v20111010_1242,"org.eclipse.jst.server.tomcat.core",1426861551687
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1426861551687
+started,bundle,org.eclipse.jst.ws.jaxws.utils,1.0.100.v201201031437,"org.eclipse.jst.ws.jaxws.utils",1426861551687
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.6.5.v20120123-0100,"org.eclipse.mylyn.bugzilla.core",1426861551687
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.bugzilla.ui",1426861551687
+started,bundle,org.eclipse.mylyn.commons.identity,0.8.0.v20110608-1400,"org.eclipse.mylyn.commons.identity",1426861551687
+started,bundle,org.eclipse.mylyn.commons.net,3.6.0.v20110608-1400,"org.eclipse.mylyn.commons.net",1426861551687
+started,bundle,org.eclipse.mylyn.commons.ui,3.6.1.v20110720-0100,"org.eclipse.mylyn.commons.ui",1426861551697
+started,bundle,org.eclipse.mylyn.context.core,3.6.1.v20110720-0100,"org.eclipse.mylyn.context.core",1426861551697
+started,bundle,org.eclipse.mylyn.context.ui,3.6.1.v20120112-0100,"org.eclipse.mylyn.context.ui",1426861551697
+started,bundle,org.eclipse.mylyn.monitor.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.monitor.ui",1426861551697
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui",1426861551697
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1426861551697
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1426861551697
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1426861551697
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1426861551697
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1426861551697
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1426861551697
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1426861551707
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1426861551707
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1426861551707
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1426861551707
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1426861551707
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1426861551707
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1426861551707
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1426861551707
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1426861551707
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1426861551707
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1426861551707
+started,bundle,org.eclipse.update.ui,3.2.300.v20100512,"org.eclipse.update.ui",1426861551707
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1426861551707
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1426861551707
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1426861551707
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1426861551717
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1426861551717
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1426861551717
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1426861551717
+started,bundle,org.eclipse.wst.server.core,1.1.304.v20120208_1420,"org.eclipse.wst.server.core",1426861551717
+started,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1426861551717
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1426861551717
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1426861551717
+started,bundle,com.aptana.ide.core,1.2.7.024747,"com.aptana.ide.core",1426861551717
+started,bundle,com.aptana.ide.core.ui,1.2.7.024747,"com.aptana.ide.core.ui",1426861551717
+started,bundle,com.aptana.ide.db.ui,1.2.7.024747,"com.aptana.ide.db.ui",1426861551717
+started,bundle,com.aptana.ide.debug.ui,1.2.7.024747,"com.aptana.ide.debug.ui",1426861551717
+started,bundle,com.aptana.ide.documentation,1.2.7.024747,"com.aptana.ide.documentation",1426861551717
+started,bundle,com.aptana.ide.epl,1.2.7.024747,"com.aptana.ide.epl",1426861551717
+started,bundle,com.aptana.ide.extras,1.2.7.024747,"com.aptana.ide.extras",1426861551727
+started,bundle,com.aptana.ide.framework.jaxer,1.2.7.024747,"com.aptana.ide.framework.jaxer",1426861551727
+started,bundle,com.aptana.ide.framework.jaxer.server.linux,1.2.7.024747,"com.aptana.ide.framework.jaxer.server.linux",1426861551727
+started,bundle,com.aptana.ide.intro,1.2.7.024747,"com.aptana.ide.intro",1426861551727
+started,bundle,com.aptana.ide.professional.licensing,1.2.7.024688_200905101214,"com.aptana.ide.professional.licensing",1426861551727
+started,bundle,com.aptana.ide.samples,1.2.7.024747,"com.aptana.ide.samples",1426861551727
+started,bundle,com.aptana.ide.server,1.2.7.024747,"com.aptana.ide.server",1426861551727
+started,bundle,com.aptana.ide.server.cloud,1.2.7.024747,"com.aptana.ide.server.cloud",1426861551727
+started,bundle,com.aptana.ide.server.core,1.2.7.024747,"com.aptana.ide.server.core",1426861551727
+started,bundle,com.aptana.ide.server.jetty,1.2.7.024747,"com.aptana.ide.server.jetty",1426861551727
+started,bundle,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal",1426861551727
+started,bundle,com.aptana.ide.server.ui,1.2.7.024747,"com.aptana.ide.server.ui",1426861551727
+started,bundle,com.aptana.ide.ssh,1.2.7.024747,"com.aptana.ide.ssh",1426861551727
+started,bundle,com.aptana.ide.syncing,1.2.7.024747,"com.aptana.ide.syncing",1426861551727
+started,bundle,com.aptana.ide.update,1.2.7.024747,"com.aptana.ide.update",1426861551727
+started,bundle,org.eclipse.eclipsemonkey,1.2.7.024747,"org.eclipse.eclipsemonkey",1426861551727
+started,bundle,org.eclipse.eclipsemonkey.doms,1.2.7.024747,"org.eclipse.eclipsemonkey.doms",1426861551727
+started,bundle,org.eclipse.eclipsemonkey.lang.javascript,1.2.7.024747,"org.eclipse.eclipsemonkey.lang.javascript",1426861551727
+os,sysinfo,,,"win32",1426861551737
+arch,sysinfo,,,"x86",1426861551737
+ws,sysinfo,,,"win32",1426861551737
+locale,sysinfo,,,"zh_CN",1426861551737
+processors,sysinfo,,,"4",1426861551737
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1426861551737
+java.runtime.version,sysinfo,,,"1.6.0_10-rc2-b32",1426861551737
+java.specification.name,sysinfo,,,"Java Platform API Specification",1426861551737
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1426861551737
+java.specification.version,sysinfo,,,"1.6",1426861551737
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1426861551737
+java.version,sysinfo,,,"1.6.0_10-rc2",1426861551737
+java.vm.info,sysinfo,,,"mixed mode",1426861551737
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1426861551737
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1426861551737
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1426861551737
+java.vm.specification.version,sysinfo,,,"1.0",1426861551737
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1426861551737
+java.vm.version,sysinfo,,,"11.0-b15",1426861551737
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1426861554027
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1426861554077
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1426861554087
+started,bundle,org.eclipse.core.filebuffers,3.5.200.v20110928-1504,"org.eclipse.core.filebuffers",1426861554177
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1426861554547
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1426861554547
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1426861554557
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1426861554637
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1426861554727
+started,bundle,com.aptana.ide.io.file,1.2.7.024747,"com.aptana.ide.io.file",1426861554917
+error,log,,,"(Build 1.2.7.024747) [ERROR] Invalid key",1426861555247

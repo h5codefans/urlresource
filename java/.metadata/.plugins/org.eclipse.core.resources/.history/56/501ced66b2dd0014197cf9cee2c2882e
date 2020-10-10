@@ -1,0 +1,39 @@
+package cn.bjsxt.lianxi;
+
+
+public class Vehicle {
+     private int wheels;
+     private int weight;
+     
+    public Vehicle(){
+    	
+    }
+	public Vehicle(int wheels, int weight) {
+		super();
+		this.wheels = wheels;
+		this.weight = weight;
+	}
+     System.out.println("轮子个数："+wheels+",车重："+weight+"。");
+}
+class Car extends Vehicle{
+	private int loader;
+	public Car(){
+		
+	}
+	public Car(int loader,int wheels,int weight) {
+		super();
+		this.loader = loader;
+	}
+	
+}
+class Truck extends Vehicle{
+	private int payload;
+    public Truck(){
+    	
+    }
+	public Truck(int payload,int Wheels,int weight) {
+		super();
+		this.payload = payload;
+	}
+	
+}

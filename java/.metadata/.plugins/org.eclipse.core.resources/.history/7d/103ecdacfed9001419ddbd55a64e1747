@@ -1,0 +1,6 @@
+package cn.bjsxt.lianxi;
+
+public abstract class Door {
+     void openDoor(){}
+     void closeDoor(){}
+}

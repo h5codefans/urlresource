@@ -1,0 +1,10 @@
+package cn.bjsxt.collection;
+
+/**
+ * 自定义实现map的功能
+ * @author Administrator
+ *
+ */
+public class Sxtmap001 {
+
+}

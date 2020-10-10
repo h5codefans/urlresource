@@ -1,0 +1,18 @@
+1.搭建开发环境
+   1.1导入开发包
+      dom4j开发包
+      jstl开发包
+      beanUtils开发包
+      log4j开发包
+   1.2创建组织程序的包
+   cn.itcast.domain
+   cn.itcast.dao
+   cn.itcast.dao.impl
+   cn.itcast.service
+   cn.itcast.service.impl
+   cn.itcast.web.controller (处理请求的servlet)
+   cn.itcast.web.UI         (给用户提供用户界面)
+   junit.test
+   
+   
+   1.3创建代表数据库的xml文件

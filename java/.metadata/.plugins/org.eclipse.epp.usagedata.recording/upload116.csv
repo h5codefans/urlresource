@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752554721
+closed,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419752556294
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752556332
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1419752556337
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419752556337
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752558277
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752573191
+started,bundle,org.eclipse.wst.common.environment,1.0.400.v200912181832,"org.eclipse.wst.common.environment",1419752586346
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752586425
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752594338
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752602337
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752639567
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752658259
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752668118
+opened,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419752668253
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419752668272
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1419752692155
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752696232
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752701752
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419752701759
+opened,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419752704894
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419752704938
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419752717920
+closed,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419752717920
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752721229
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752723101
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752723806
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752798056
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1419752803554
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419752811625
+opened,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419752811669
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419752811696
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419752819837
+closed,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419752819837
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419752825939
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752834142
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752878829
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1419752887520
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419752889048
+started,bundle,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editor.xml",1419752891413
+opened,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1419752891566
+activated,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1419752891587
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419752893378
+closed,editor,com.aptana.ide.editor.xml,1.2.7.024747,"com.aptana.ide.editors.XMLEditor",1419752893379
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752894321
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752895260
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752895665
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752982791
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419752986242
+closed,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419752986242
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752989565
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752990559
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419752990570
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419752991558
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753012909
+started,bundle,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.ui",1419753016551
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753016840
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753030530
+started,bundle,org.eclipse.wst.jsdt.web.support.jsp,1.0.400.v201102241833,"org.eclipse.wst.jsdt.web.support.jsp",1419753030688
+opened,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1419753031383
+started,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.101.v201201112313,"org.eclipse.wst.jsdt.debug.ui",1419753031431
+activated,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1419753031433
+started,bundle,org.eclipse.jst.jsf.facelet.ui,1.0.1.v201104032306,"org.eclipse.jst.jsf.facelet.ui",1419753033063
+started,bundle,org.eclipse.jst.jsf.ui,1.3.2.v201104251204,"org.eclipse.jst.jsf.ui",1419753033084
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1419753036165
+started,bundle,org.eclipse.jst.jsf.facelet.core,1.0.100.v201104191527,"org.eclipse.jst.jsf.facelet.core",1419753036478
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1419753036576
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1419753036732
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753059774
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753067454
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1419753067474
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753075945
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753079261
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1419753079282
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753085081
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753086172
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419753086218
+closed,editor,org.eclipse.jst.jsp.ui,1.1.602.v201112071516,"org.eclipse.jst.jsp.core.jspsource.source",1419753086218
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753089034
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753089968
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419753089974
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753090734
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753096896
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753097629
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753103500
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753107555
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753217561
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753225480
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753226491
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1419753226495
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419753226496
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753227241
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753240108
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753245982
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753289273
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753290770
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753309472
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.200.v201101281837,"org.eclipse.wst.xsl.debug.ui",1419753310295
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753322511
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753393228
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.newWizard",1419753393243
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753396845
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753398075
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1419753398079
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419753398079
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753398871
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753399713
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753399815
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753403804
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753409296
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753433101
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1419753433121
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753443048
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753459906
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753473338
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753504143
+opened,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753504284
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753504306
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1419753524812
+executed,command,,,"com.aptana.ide.debug.ui.jsApplicationShortcut.run",1419753534519
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753536243
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753536291
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753537245
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753542331
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419753547333
+error,log,,,"Several ports (8888, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1419753552403
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753552443
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753576275
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.debug.core"".",1419753579893
+error,log,,,"An exception occurred during launch change notification.",1419753579895
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419753584652
+opened,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753589084
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753589115
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753592456
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753593880
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753597400
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753598728
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753674441
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753676060
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753678319
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753683420
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753726661
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753728901
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753729547
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753748086
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419753752355
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753754854
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753756299
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753758150
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753765920
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753769679
+closed,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753770700
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753770728
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419753770733
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753771552
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753780705
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753785536
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753792433
+opened,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753792552
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753792577
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419753795387
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753801026
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753804920
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753806002
+closed,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753806002
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1419753821540
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419753830219
+opened,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753830264
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753830308
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419753833848
+closed,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419753833848
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753835645
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753841450
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753842969
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753843784
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753845676
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753973805
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419753975703
+started,bundle,org.eclipse.wst.ws.ui,1.1.200.v201004211805,"org.eclipse.wst.ws.ui",1419754006423
+started,bundle,org.eclipse.jst.ws.consumption.ui,1.1.402.v201201250306,"org.eclipse.jst.ws.consumption.ui",1419754010234
+started,bundle,org.eclipse.jst.ws.ui,1.0.403.v201004211805,"org.eclipse.jst.ws.ui",1419754010238
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754028454
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1419754028466
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419754032611
+opened,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419754032681
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419754032720
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419754037896
+closed,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419754037897
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754039352
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754230420
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419754231768
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754235148
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754236150
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1419754236154
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419754236155
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754239121
+error,log,,,"Participant 'JavaEEServerRefParticipant' removed due to the following exception",1419754240162
+closed,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419754240245
+error,log,,,"Internal Error",1419754240278
+error,log,,,"The Tomcat server configuration at \\Servers\\Tomcat v7.0 Server at localhost-config is missing. Check the server for errors.",1419754240279
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754245333
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1419754245345
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419754245346
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754250752
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754251684
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1419754251693
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419754251693
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754253096
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754260067
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754261311
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754262325
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754263231
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754282151
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754287198
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754341121
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754343406
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754353267
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1419754353286
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754356961
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362653
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362655
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362657
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362664
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362667
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362669
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362701
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362702
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362708
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362709
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362709
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362710
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362711
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362711
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362712
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362713
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362714
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362715
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362716
+error,log,,,"Failed while invoking preset factory ""org.eclipse.wst.common.project.facet.core"".",1419754362716
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754464286
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754479857
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754499053
+opened,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419754499191
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419754499212
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1419754519375
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419754523602
+error,log,,,"Several ports (8888, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1419754528650
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754528678
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754533680
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419754539069
+error,log,,,"Several ports (8888, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1419754544088
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754544113
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.debug.core"".",1419754617771
+error,log,,,"An exception occurred during launch change notification.",1419754617772
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754635111
+executed,command,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.launchShortcut.run",1419754638436
+opened,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419754640823
+activated,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419754640853
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419754645993
+closed,editor,org.eclipse.ui.browser,3.3.101.v20111019-1723,"org.eclipse.ui.browser.editor",1419754645993
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419754647616
+activated,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419754648030
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1419754650444
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754653484
+error,log,,,"No IModelProvider exists for project P/TomcatTest of version: null",1419754654570
+error,log,,,"An internal error occurred during: ""Loading descriptor for TomcatTest."".",1419754654571
+closed,editor,com.aptana.ide.editor.html,1.2.7.024747,"com.aptana.ide.editors.HTMLEditor",1419754654689
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754654720
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1419754654726
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1419754654726
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754656372
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754663778
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754668199
+started,bundle,org.eclipse.xsd,2.7.1.v20120130-0943,"org.eclipse.xsd",1419754684471
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1419754684698

@@ -1,0 +1,11 @@
+package cn.itcast.xml.dom4j;
+
+import org.junit.Test;
+
+public class Demo01 {
+	
+    @Test
+	public void read(){
+		
+	}
+}

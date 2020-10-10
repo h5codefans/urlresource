@@ -1,0 +1,15 @@
+package cn.bjsxt.collection2;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Test02 {
+    public static void main(String[] args) {
+		Map map=new HashMap();
+		map.put("id", 0301);
+		map.put("name","高淇"	);
+		map.put("salary", 3050);
+		map.put("department","项目部");
+		map.put("hireDate", "2007-10");
+	}
+}

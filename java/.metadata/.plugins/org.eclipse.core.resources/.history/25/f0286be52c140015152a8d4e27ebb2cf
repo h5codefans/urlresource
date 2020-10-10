@@ -1,0 +1,8 @@
+﻿<!ENTITY bookname "javaweb开发">
+
+<!ELEMENT 书架 (书+)>
+<!ELEMENT 书 (书名,作者,售价)>
+<!ELEMENT 书名 (#PCDATA)>
+<!ELEMENT 作者 (#PCDATA)>
+<!ELEMENT 售价 (#PCDATA)>
+<!ATTLIST 书名 name NAME #IMPLIED>

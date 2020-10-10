@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="net.sourceforge.phpdt.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="net.sourceforge.phpeclipse.ATTR_LOCATION" value="D:\Program Files\AppServ\Apache2.2\bin\httpd.exe"/>
+<booleanAttribute key="net.sourceforge.phpeclipse.ATTR_RUN_IN_BACKGROUND" value="true"/>
+<stringAttribute key="net.sourceforge.phpeclipse.ATTR_TOOL_ARGUMENTS" value="-k shutdown"/>
+</launchConfiguration>

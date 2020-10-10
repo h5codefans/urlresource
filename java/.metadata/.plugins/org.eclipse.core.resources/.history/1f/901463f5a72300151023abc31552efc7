@@ -1,0 +1,19 @@
+package cn.itcast.dao.impl;
+
+import cn.itcast.dao.User;
+
+public class UserDaoImpl {
+    
+	public void add(User user){
+		
+	}
+	
+	public User find(String username,String password){
+		return null;
+		
+	}
+	//查找注册的用户是否在数据库中是否存在
+	public boolean find(String username){
+		return null;
+	}
+}

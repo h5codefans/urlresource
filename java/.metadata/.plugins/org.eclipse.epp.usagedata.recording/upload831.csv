@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.aptana.ide.framework.jaxer.server.win32,1.2.7.024747,"com.aptana.ide.framework.jaxer.server.win32",1438990700175
+started,bundle,com.aptana.ide.intro,1.2.7.024747,"com.aptana.ide.intro",1438990700192
+started,bundle,com.aptana.ide.samples,1.2.7.024747,"com.aptana.ide.samples",1438990700196
+started,bundle,com.aptana.ide.server,1.2.7.024747,"com.aptana.ide.server",1438990700224
+started,bundle,com.aptana.ide.server.cloud,1.2.7.024747,"com.aptana.ide.server.cloud",1438990700234
+started,bundle,com.aptana.ide.server.core,1.2.7.024747,"com.aptana.ide.server.core",1438990700244
+started,bundle,com.aptana.ide.server.jetty,1.2.7.024747,"com.aptana.ide.server.jetty",1438990700256
+started,bundle,com.aptana.ide.server.portal,1.2.7.024747,"com.aptana.ide.server.portal",1438990700262
+started,bundle,com.aptana.ide.server.ui,1.2.7.024747,"com.aptana.ide.server.ui",1438990700289
+started,bundle,com.aptana.ide.ssh,1.2.7.024747,"com.aptana.ide.ssh",1438990700290
+started,bundle,com.aptana.ide.syncing,1.2.7.024747,"com.aptana.ide.syncing",1438990700300
+started,bundle,com.aptana.ide.update,1.2.7.024747,"com.aptana.ide.update",1438990700303
+started,bundle,org.tigris.subversion.clientadapter,1.6.12,"org.tigris.subversion.clientadapter",1438990700320
+started,bundle,org.tigris.subversion.subclipse.core,1.6.18,"org.tigris.subversion.subclipse.core",1438990700335
+started,bundle,org.tigris.subversion.subclipse.mylyn,3.0.0,"org.tigris.subversion.subclipse.mylyn",1438990700346
+os,sysinfo,,,"win32",1438990700348
+arch,sysinfo,,,"x86",1438990700348
+ws,sysinfo,,,"win32",1438990700348
+locale,sysinfo,,,"zh_CN",1438990700348
+processors,sysinfo,,,"4",1438990700348
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1438990700348
+java.runtime.version,sysinfo,,,"1.6.0_10-rc2-b32",1438990700348
+java.specification.name,sysinfo,,,"Java Platform API Specification",1438990700348
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1438990700348
+java.specification.version,sysinfo,,,"1.6",1438990700348
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1438990700348
+java.version,sysinfo,,,"1.6.0_10-rc2",1438990700348
+java.vm.info,sysinfo,,,"mixed mode",1438990700348
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1438990700348
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1438990700348
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1438990700348
+java.vm.specification.version,sysinfo,,,"1.0",1438990700348
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1438990700348
+java.vm.version,sysinfo,,,"11.0-b15",1438990700348
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1438990700695
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1438990700704
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1438990700837
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1438990701030
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438990735091
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992529693
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992530044
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992705706
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992705966
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992706153
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992706393
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992707047
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1438992709453
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1438992710109
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1438992710575
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1438992710637
+started,bundle,org.eclipse.core.filebuffers,3.5.200.v20110928-1504,"org.eclipse.core.filebuffers",1438992711185
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1438992712006
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1438992712028
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1438992712065
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1438992712392
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438992712624
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438992712908
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438992713017
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438992713057
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438992713241
+started,bundle,com.aptana.ide.io.file,1.2.7.024747,"com.aptana.ide.io.file",1438992713870
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438992714235
+started,bundle,com.collabnet.subversion.merge,2.2.4,"com.collabnet.subversion.merge",1438992715026
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1438992715184
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1438992715272
+started,bundle,org.tigris.subversion.subclipse.ui,1.6.18,"org.tigris.subversion.subclipse.ui",1438992715411
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438992719350
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1438992719382
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1438992719396
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1438992719471
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1438992719485
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1438992719716
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1438992719736
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r372_v20111101-0700,"org.eclipse.ltk.core.refactoring",1438992719829
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1438992719866
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438992722520
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992722890
+started,bundle,org.eclipse.ui.externaltools,3.2.0.v20111007_r372,"org.eclipse.ui.externaltools",1438992726521
+started,bundle,org.eclipse.core.externaltools,1.0.100.v20111007_r372,"org.eclipse.core.externaltools",1438992726776
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992748623
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438992748722
+started,bundle,de.guhsoft.jinto.core,0.13.5,"de.guhsoft.jinto.core",1438992749013
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1438992749107
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1438992749140
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992756147
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992767709
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438992770090
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1438992770311
+started,bundle,org.eclipse.core.variables,3.2.500.v20110928-1503,"org.eclipse.core.variables",1438992770481
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1438992770560
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438992770628
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1438992776400
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.2.v201201260000,"org.eclipse.jpt.jaxb.ui",1438992776440
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.2.v201201243020,"org.eclipse.jpt.jpa.ui",1438992776501
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1438992776568
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1438992776957
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1438992776985
+started,bundle,org.eclipse.jpt.jpa.core,3.0.2.v201201243020,"org.eclipse.jpt.jpa.core",1438992777026
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1438992777078
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1438992777089
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20111129-2053,"org.eclipse.pde.api.tools",1438992777235
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1438992777249
+started,bundle,de.guhsoft.jinto.ui,0.13.5,"de.guhsoft.jinto.ui",1438992777269
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.2.v201111103010,"org.eclipse.jpt.jaxb.core",1438992777508
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1438992778032
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1438992810543
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992812378
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992812389
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1438992818325
+started,bundle,com.aptana.ide.debug.core,1.2.7.024747,"com.aptana.ide.debug.core",1438992819298
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438992820381
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438992821266
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992823753
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992824839
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992825223
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992826485
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992827100
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992828149
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992830029
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992970100
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438992971319
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438992973273
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438992976513
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992976628
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438992982388
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438992982399
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438992990440
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438992992932
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438992995633
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993005505
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993117861
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993121020
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993124613
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993129879
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993145876
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1438993145885
+error,log,,,"Could not search for markers.",1438993145954
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993147200
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993148916
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1438993150319
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993150870
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1438993155992
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438993156681
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993157475
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993160275
+error,log,,,"Could not search for markers.",1438993172117
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993172122
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1438993172130
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993174038
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993175952
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993177592
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993179323
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993180735
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993180819
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993194867
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438993194875
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993195261
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993197297
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993198363
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993203255
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993206653
+error,log,,,"Could not search for markers.",1438993206665
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1438993206672
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993208891
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993210672
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993211736
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993211815
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993216870
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438993216895
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993217252
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1438993221952
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993224473
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993229256
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993230489
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993230566
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993232481
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438993232490
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.openProject",1438993239065
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993242690
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993242725
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993245969
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993245975
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993247328
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993248585
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993249577
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993249659
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993251711
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438993251719
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993252286
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993261973
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993264357
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1438993264368
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1438993266957
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438993267460
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993267997
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993272612
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993276457
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1438993276465
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438993278529
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993279988
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438993280990
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993281600
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993283296
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993283296
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993284791
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993286702
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.closeProject",1438993288475
+error,log,,,"Could not search for markers.",1438993288547
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993289576
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993296259
+error,log,,,"Could not search for markers.",1438993300263
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993300266
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1438993300273
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993301869
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993305349
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993306387
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993306460
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993312582
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438993312590
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993313337
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993315430
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993316959
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993318267
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993318347
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993325203
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438993325210
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993325992
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993328741
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993335388
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1438993335398
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993335801
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993336612
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1438993340171
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1438993340602
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993342704
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993344478
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1438993347695
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993348544
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993351809
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993357934
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1438993365713
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1438993370451
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993373343
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993375899
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1438993375910
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.openProject",1438993379115
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993379875
+error,log,,,"No property tester contributes a property com.aptana.ide.core.ui.nature to type class org.eclipse.jdt.internal.core.JavaProject",1438993381094
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993381176
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1438993390184

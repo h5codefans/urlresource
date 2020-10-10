@@ -1,0 +1,36 @@
+package cn.bjsxt.lianxi;
+
+public class Test{
+	public static void main(String[] args) {
+		Calculate calculate=new Calculate();
+		Calculate.add(3, 4);
+	}
+}
+class Calculate<T1>{
+   private T1 x;
+   private T1 y;
+   
+   public Calculate(){
+	   
+   }
+   public Calculate(T1 x, T1 y) {
+	super();
+	this.x = x;
+	this.y = y;
+}
+
+
+public static <T1> Object add(T1 x,T1 y){
+	   return <T1>x+<T1>y;
+   }
+	
+}
+class CanNotDiv0 extends Exception{
+	public CanNotDiv0(){
+		
+	}
+	public CanNotDiv0(String message){
+		super(message);
+	}
+}
+

@@ -1,0 +1,13 @@
+package cn.bjsxt.lianxi;
+
+
+public class Vehicle {
+     private int wheels;
+     private int weight;
+}
+class Car extends Vehicle{
+	private int loader;
+}
+class Car extends Vehicle{
+	private int payload;
+}

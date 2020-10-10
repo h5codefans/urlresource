@@ -1,0 +1,12 @@
+package cn.bjsxt.lianxi;
+
+
+class CanNotDiv0 extends Exception{
+	public CanNotDiv0(){
+		
+	}
+	public CanNotDiv0(String message){
+		super(message);
+	}
+}
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;cqyt.sxt.ycx&apos; to &apos;ST_RentCar1/src&apos;&#x0D;&#x0A;- Original project: &apos;ST_RentCar&apos;&#x0D;&#x0A;- Destination element: &apos;ST_RentCar1/src&apos;&#x0D;&#x0A;- Original element: &apos;ST_RentCar/src/cqyt.sxt.ycx&apos;" description="Copy package" destination="=ST_RentCar1/src" element1="/src&lt;cqyt.sxt.ycx" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1439097145069" version="1.0"/>
+</session>

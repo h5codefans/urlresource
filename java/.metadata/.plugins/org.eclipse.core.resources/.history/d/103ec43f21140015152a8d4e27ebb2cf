@@ -1,0 +1,16 @@
+package cn.itcast.xml;
+
+/**
+ * 调整jvm内存大小
+ * @author Administrator
+ *
+ */
+public class Demo01 {
+
+	//默认64M
+	public static void main(String[] args) {
+		
+       byte b[]=new byte[1024*1024*63];
+	}
+
+}

@@ -1,0 +1,19 @@
+package cn.itcast.utils;
+
+import org.dom4j.Document;
+
+public class XmlUtils {
+   
+	private static String filepath;
+	static{
+		
+		filepath=XmlUtils.class.getClassLoader().getResource("users.xml").getPath();
+	}
+	public static Document getDocument(){
+		return null;
+	}
+	
+	public static void write2Xml(Document document){
+		
+	}
+}

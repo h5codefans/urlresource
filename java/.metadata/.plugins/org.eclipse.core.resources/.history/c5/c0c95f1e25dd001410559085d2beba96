@@ -1,0 +1,16 @@
+package com.bjsxt.gen03;
+
+/**
+ * 父类为泛型类
+ * 1.属性
+ * 2.方法
+ * @author Administrator
+ *
+ * @param <T>
+ */
+public abstract class Father<T> {
+    T name;
+    public abstract void test(T t){
+    	
+    }
+}
