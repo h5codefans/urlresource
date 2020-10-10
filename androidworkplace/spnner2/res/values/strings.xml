@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">spnner</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="spinner_data">
+        <item>重庆</item>
+        <item>四川</item>
+        <item>北京</item>
+    </string-array>
+</resources>
