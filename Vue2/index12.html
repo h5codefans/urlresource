@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- <link href="https://unpkg.com/animate.css@3.5.1/animate.min.css" rel="stylesheet" type="text/css"> -->
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <!-- <script src="https://static.runoob.com/assets/vue/1.0.11/vue.min.js"></script> -->
+    <style type="text/css">
+
+    </style>
+
+    <body>
+        <div id="app">
+            <router-link to="profile">gotopofole</router-link>
+            <router-link to="home">gotovarhme</router-link>
+            <router-view></router-view>
+        </div>
+    </body>
+    <script type="text/javascript" src="dist/vue.min.js"></script>
+    <script type="text/javascript" src="dist/vue-router.js"></script>
+    <script type="text/javascript">
+    var user = {
+        template: '<div>`{{$route.params.id}}`<router-view></router-view></div>'
+    }
+    var profile = {
+        template: '<div>this is profile</div>'
+    }
+    var home = {
+        template: '<div>this is home</div>'
+    }
+    var routes = [{
+        path: '/user/:id',
+        component: user,
+        children: [{
+            path: 'profile',
+            component: profile
+        }, {
+            path: 'home',
+            component: home
+        }]
+    }] 
+    var rout = new VueRouter({
+        routes: routes
+    })
+    var vm = new Vue({
+        router: rout
+    }).$mount('#app')
+    </script>
+
+</html>

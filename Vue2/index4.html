@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="dist/vue.min.js"></script>
+</head>
+<body>
+        <div id="app">
+			<input type="text" 
+			v-model="newData"
+			v-on:keyup.enter="addNewsTodo"
+			placeholder="add a todo"
+			>
+			<ul>
+				<li 
+				is="todo-item"
+				v-for="(todo,index) in todos"
+				v-bind:title="todo"
+				v-on:remove="todos.splice(index,1)"
+				></li>
+			</ul>
+        </div>
+
+        <script type="text/javascript">
+         Vue.component('todo-item',{
+         	template:'\
+         	<li>\
+         	{{title}}\
+         	<button v-on:click="$emit(\'remove\')">X</button>\
+         	<li>\
+			',
+			props:['title']
+         });
+
+         new Vue({
+         	el:'#app',
+         	data:{
+         		newData:'',
+         		todos:[
+         			'Do',
+         			'IS',
+         			'Demo'
+         		]
+         	},
+         	methods:{
+         		addNewsTodo:function(){
+         			this.todos.push(this.newData),
+         			this.newData='';
+         		}
+         	}
+         });
+        </script>
+</body>
+</html>

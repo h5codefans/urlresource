@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="dist/vue.min.js"></script>
+</head>
+<body>
+		<template id="temp">
+			<div>
+				<h2>register</h2>
+				<button @click="dian">点我点我~</button>
+			</div>
+		</template>
+        <div id="app">
+        	<register @foo="func"></register>
+        </div>
+
+        <script>
+        	const register={
+        		template:"#temp",
+        		methods:{
+        			dian(){
+        				console.log("点点点");
+        				this.$emit("foo")
+        			}
+        		}
+        	} 
+        	const vm=new Vue({
+        		el:"#app",
+        		data:{
+        			mes:"父组件"
+        		},
+        		methods:{
+        			func(){
+        				console.log("父方法")
+        			}
+        		},
+        		components:{
+        			register
+        		}
+        	});
+        </script>
+</body>
+</html>

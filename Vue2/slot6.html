@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script type="text/javascript" src="dist/vue.min.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <button @click="toshow">点击让子组件显示</button>
+        <children v-if="abc">
+        </children>
+    </div>
+    <script>
+    var vm = new Vue({
+        el: '#app',
+        data: {
+            abc: false
+        },
+        methods: {
+            toshow: function() {
+                this.abc = !this.abc;
+            }
+        },
+        components: {
+            children: { //这个无返回值，不会继续派发 
+                template: "<div>这里是子组件</div>"
+            }
+        }
+    });
+    </script>
+</body>
+
+</html>

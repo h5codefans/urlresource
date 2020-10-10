@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="dist/vue.min.js"></script>
+</head>
+<body>
+        <div id="app">
+        	<currency-input v-model="price"></currency-input>
+        </div>
+
+        <script type="text/javascript">
+        	Vue.component('currency-input',{
+        		template:'\
+        		<span>\
+        		$\
+        		<input\
+        		ref="input"\
+        		v-bind:value="value"\
+        		v-on:input="updateValue($event.target.value)"\
+        		>\
+        		</span>\
+        		',
+        		props:['value'],
+        		methods:{
+        			updateValue:function(value){
+        				var formatteValue=value
+        				.trim()
+        				.slice(0,value.indexOf('.')+3)
+        				if(formatteValue!==value){
+        					this.$refs.input.value=formatteValue;
+        				}
+
+        				this.$emit('input',Number(formatteValue));
+        			}
+        		}
+        	});
+        	new Vue({
+        		el:'#app',
+        		data:{
+        			price:''
+        		}
+        	});
+        </script>
+</body>
+</html>

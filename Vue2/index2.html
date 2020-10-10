@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="dist/underscore.js"></script>
+	<script type="text/javascript" src="dist/vue.min.js"></script>
+</head>
+<body>
+        <div id="app">
+      		<input type="text" v-model="question" />
+      		<p></p>
+      		<p>{{answer}}</p>
+        </div>
+
+        <script type="text/javascript">
+        var vm=new Vue({
+        	el:'#app',
+        	data:{
+        		question:'',
+        		answer:'end.................'
+        	},
+        	watch:{
+        		question:function(newVal){
+        			this.answer='start..............'
+        			this.getanswer();
+        		}
+        	},
+        	methods:{
+        		getanswer:_.debounce(
+        			function(){
+        			var vm = this;
+        			if(this.question.indexOf('?')===-1){
+        				vm.answer='end............';
+        				return;
+        			}
+        			vm.answer = 'Thinking...';
+        		},500)
+        	}
+        });
+        </script>
+</body>
+</html>

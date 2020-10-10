@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="dist/vue.min.js"></script>
+</head>
+<body>
+		<div id="app">
+			<input v-model.lazy="msg" >
+			<span>{{msg}}</span>
+		</div>
+        <script type="text/javascript">
+			new Vue({
+			  el: '#app',
+			  data: {
+			    msg: 'test'
+			  }
+			})
+        </script>
+</body>
+</html>

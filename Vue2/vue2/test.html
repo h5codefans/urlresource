@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="../dist/vue.min.js"></script>
+</head>
+<body>
+        <div id="app">
+        	<example></example>
+        </div>
+
+        <script type="text/javascript">
+			Vue.component('example', {
+			  template: '<button v-on:click="updateMessage">{{ message }}</button>',
+			  data: function () {
+			    return {
+			      message: 'not updated'
+			    }
+			  },
+			  methods: {
+			    updateMessage: function () {
+			      this.message = 'updated'
+			      console.log(this.$el.textContent) // => '没有更新'
+			      this.$nextTick(function () {
+			        console.log(this.$el.textContent) // => '更新完成'
+			      })
+			    }
+			  }
+			})
+			new Vue({
+				el:'#app'
+			});
+        </script>
+</body>
+</html>
