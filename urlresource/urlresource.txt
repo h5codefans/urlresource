@@ -1,19 +1,20 @@
 --args --disable-web-security --allow-file-access-from-files --user-data-dir
 vue2:https://doc.vue-js.com/v2/guide/components-edge-cases.html
 springmvc:https://www.iteye.com/blog/jinnianshilongnian-1594806
-汤姆大叔:https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
+姹ゅ澶у彅:https://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
 bind,apply,call:https://www.cnblogs.com/cosiray/p/4512969.html
-js回调函数https://blog.csdn.net/baidu_32262373/article/details/54969696
-移动端：https://www.cnblogs.com/PeunZhang/p/3407453.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+js鍥炶皟鍑芥暟https://blog.csdn.net/baidu_32262373/article/details/54969696
+绉诲姩绔細https://www.cnblogs.com/PeunZhang/p/3407453.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 cordova:https://www.cnblogs.com/hubcarl/p/4202784.html
 https://www.iteye.com/blogs/subjects/cordova
 https://www.iteye.com/blog/rensanning-2047322
 https://www.iteye.com/blog/rensanning-2054646
 https://www.iteye.com/blog/rensanning-2024988
 UI:https://www.cnblogs.com/softidea/p/5789407.html
-android生命周期:https://www.oschina.net/question/54100_27841
+android鐢熷懡鍛ㄦ湡:https://www.oschina.net/question/54100_27841
 google:http://yesky.51speed.top/2020/07/30/gugeliulanqi_v84.0.4147.105.rar
-
+vue-cli:https://www.jianshu.com/p/fe174b7eeee3
+https://cloud.tencent.com/developer/article/1655446
 
 
 
