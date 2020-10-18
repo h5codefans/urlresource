@@ -19,6 +19,7 @@ typescript:https://blog.csdn.net/qq_36595013/article/details/83058286
 https://github.com/zhongsp/TypeScript
 vue库：https://www.jianshu.com/p/011d308d7dd7
 better-scroll:https://github.com/ustbhuangyi/better-scroll
+sublime-typescript:https://github.com/Microsoft/TypeScript-Sublime-Plugin
 
 
 
