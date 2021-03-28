@@ -21,6 +21,7 @@ vue库：https://www.jianshu.com/p/011d308d7dd7
 better-scroll:https://github.com/ustbhuangyi/better-scroll
 sublime-typescript:https://github.com/Microsoft/TypeScript-Sublime-Plugin
 sublime-nodejs:https://www.cnblogs.com/qiaojie/p/5560388.html
+extjs:https://blog.csdn.net/happy_jijiawei/article/details/46468485
 
 
 
